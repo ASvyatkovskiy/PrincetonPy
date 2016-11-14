@@ -116,9 +116,16 @@ echo $SPARK_HOME
 
 (that should return a valid path in your filesystem, as opposed to an empty string)
 
-Start interactive ipython notebook:
-
+Set environmental variables to launch Spark-enabled jupyter notebook.
 ```bash
-#ipython notebook
-IPYTHON_OPTS="notebook" $SPARK_HOME/bin/pyspark
+export PYSPARK_DRIVER_PYTHON="/path/to/my/anaconda/bin/jupyter"
+export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
+export PYSPARK_PYTHON="/path/to/my/anaconda/bin/python"
 ```
+and add them to your `.profile` so that you do not need to retype every time you open a command line window. 
+
+Next launch of pyspark shell will prompt you to the notebook:
+```bash
+pyspark [options]
+```
+where [options] is the list of flags you pass to pyspark.
