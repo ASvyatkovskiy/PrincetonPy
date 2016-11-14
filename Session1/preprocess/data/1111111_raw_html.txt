@@ -1,0 +1,2664 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Xbox 360 Homepage - Video Game Cheats, Codes, Cheat Codes, Reviews, Previews, News, Release Dates, and more!
+  </title>
+  <meta content="The best selection of Xbox 360 video game cheats, codes, cheat codes, reviews, previews, news, release dates, and much more!" name="description"/>
+  <meta content="xbox 360, video games, cheats, codes, cheat codes, reviews, previews, news, release dates" name="keywords"/>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <script src="/ajax/cheatcc_tabs.js" type="text/javascript">
+  </script>
+  <script src="/ajax/swfobject.js" type="text/javascript">
+  </script>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Cheat Code Central" name="AUTHOR"/>
+  <link href="/css/layout.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/header.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/footer.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/body.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/green.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/home_slide.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/new_content.css" rel="stylesheet" type="text/css"/>
+  <script language="JavaScript" src="/js/jquery.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/js/init.js" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <!-- begin HEADER -->
+  <div id="header">
+   <div class="site-width">
+    <style>
+     #header-line-2
+{
+  padding-top: 26px;
+
+}
+    </style>
+    <!-- &lt;div class="header-top-menu" style="position:fixed; top:0px; height: 26px; z-index: 1000; background-image: url(http://cdn.cheatcc.com/CCC-Css-Images/images/header/bg.png); background-position: top left; background-repeat: repeat-x; width: 1005px;"&gt; -->
+    <!-- &lt;div style="font-weight: bold; color: #ffffff; float:left; width: 150px; font-size: 20px;"&gt;The Hottest:&lt;/div&gt; &lt;script language="JavaScript" type="text/javascript" src="/js/li-scroller.js"&gt;&lt;/script&gt;
+  -->
+    <!-- &lt;link rel="stylesheet" href="http://www.cheatcc.com/js/li-scroller_0830.css" type="text/css" media="screen" /&gt; -->
+    <!--&lt;script language="JavaScript" type="text/javascript" src="http://www.cheatcc.com/ssi/header_bars/hot_items.js"&gt;&lt;/script&gt;-->
+    <!--&lt;script language="JavaScript" type="text/javascript" src="http://www.cheatcc.com/ssi/header_bars/hot_items_refresh.js"&gt;&lt;/script&gt;-->
+    <!--&lt;script language="JavaScript" type="text/javascript" src="/ssi/header_bars/hot_items.js"&gt;&lt;/script&gt;-->
+    <!--&lt;script language="JavaScript" type="text/javascript" src="http://www.cheatcc.com/ssi/header_bars/menu_selector.js"&gt;&lt;/script&gt;-->
+    <!--
+&lt;div id='top-menu-links' style='text-align:center; width: 850px; float:left;'&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="hot_link" href="http://lists.cheatcc.com/147" title="10 Random Game Facts" onClick="_gaq.push(['_trackEvent', 'Hottest Items', 'Click', 'Clicked Link']);"&gt;10 Random Game Facts&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a class="hot_link" href="http://dispatches.cheatcc.com/691" title="Nintendo's Mistake" onClick="_gaq.push(['_trackEvent', 'Hottest Items', 'Click', 'Clicked Link']);"&gt;Nintendo's Mistake&lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;  &lt;a class="hot_link" href="http://lists.cheatcc.com/145" title="10 Games That Will Never Happen" onClick="_gaq.push(['_trackEvent', 'Hottest Items', 'Click', 'Clicked Link']);"&gt;10 Games That Will Never Happen&lt;/a&gt;&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;a class="hot_link" href="http://dispatches.cheatcc.com/688" title="Sony Scores Again" onClick="_gaq.push(['_trackEvent', 'Hottest Items', 'Click', 'Clicked Link']);"&gt;Sony Scores Again&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt; -->
+    <!-- &lt;/div&gt; -->
+    <script language="JavaScript" src="http://www.cheatcc.com/js/Math.uuid.js" type="text/javascript">
+    </script>
+    <script language="JavaScript" src="http://www.cheatcc.com/ssi/sidebars/jquery.cookie.js" type="text/javascript">
+    </script>
+    <script language="JavaScript" src="http://www.cheatcc.com/ssi/header_bars/menu_selector.js" type="text/javascript">
+    </script>
+    <ul id="menu" style="display:none;">
+     <li>
+      <a href="http://dispatches.cheatcc.com">
+       Daily Dispatch
+      </a>
+     </li>
+     <li>
+      <a href="http://videos.cheatcc.com">
+       Videos
+      </a>
+     </li>
+     <li>
+      <a href="http://lists.cheatcc.com">
+       Top Lists
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cheatcc.com/extra">
+       Features
+      </a>
+     </li>
+     <li>
+      <a href="http://news.cheatcc.com">
+       News
+      </a>
+     </li>
+     <li>
+      <a class="xbox360Menu" href="http://www.cheatcc.com/xbox360/xbox360menu.html" title="Xbox 360">
+       Xbox 360
+      </a>
+     </li>
+     <li>
+      <a class="ps3Menu" href="http://www.cheatcc.com/ps3/ps3menu.html" title="PS3">
+       PS3
+      </a>
+     </li>
+     <li>
+      <a class="pcMenu" href="http://www.cheatcc.com/pc/pcmenu.html" title="PC">
+       PC
+      </a>
+     </li>
+     <li>
+      <a class="xboxoneMenu" href="http://www.cheatcc.com/xboxone/xboxonemenu.html" title="Xbox One">
+       Xbox One
+      </a>
+     </li>
+     <li>
+      <a class="ps4Menu" href="http://www.cheatcc.com/ps4/ps4menu.html" title="PS4">
+       PS4
+      </a>
+     </li>
+     <li>
+      <a class="wiiuMenu" href="http://www.cheatcc.com/wiiu/wiiumenu.html" title="Wii U">
+       Wii U
+      </a>
+     </li>
+     <li>
+      <a class="threedsMenu" href="http://www.cheatcc.com/3ds/3dsmenu.html" title="3DS">
+       3DS
+      </a>
+     </li>
+     <li>
+      <a class="vitaMenu" href="http://www.cheatcc.com/psvita/vitamenu.html" title="PS Vita">
+       Vita
+      </a>
+     </li>
+     <li>
+      <a class="wiiMenu" href="http://www.cheatcc.com/wii/wiimenu.html" title="Wii">
+       Wii
+      </a>
+     </li>
+     <li>
+      <a class="dsMenu" href="http://www.cheatcc.com/ds/dsmenu.html" title="DS">
+       DS
+      </a>
+     </li>
+     <li>
+      <a class="pspMenu" href="http://www.cheatcc.com/psp/pspmenu.html" title="PSP">
+       PSP
+      </a>
+     </li>
+     <li>
+      <a class="ps2Menu" href="http://www.cheatcc.com/psx2/ps2menu.html" title="PS2">
+       PS2
+      </a>
+     </li>
+     <li>
+      <a class="xboxMenu" href="http://www.cheatcc.com/xb/xboxmenu.html" title="Xbox">
+       Xbox
+      </a>
+     </li>
+     <li>
+      <a class="cubeMenu" href="http://www.cheatcc.com/gc/gcmenu.html" title="GameCube">
+       GameCube
+      </a>
+     </li>
+     <li>
+      <a class="ps1Menu" href="http://www.cheatcc.com/psx/codes/psxmenu.html" title="PSOne">
+       PSOne
+      </a>
+     </li>
+     <li>
+      <a class="n64Menu" href="http://www.cheatcc.com/n64/n64menu.html" title="N64">
+       N64
+      </a>
+     </li>
+     <li>
+      <a class="gbaMenu" href="http://www.cheatcc.com/gba/gbamenu.html" title="GBA">
+       GBA
+      </a>
+     </li>
+     <li id="gb-hover">
+      <a href="http://www.cheatcc.com/gb/gbmenu.html">
+       Game Boy
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cheatcc.com/dc/dcmenu.html">
+       Dreamcast
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cheatcc.com/dvd/dvdmenu.html">
+       DVD
+      </a>
+     </li>
+    </ul>
+    <link href="http://fonts.googleapis.com/css?family=Audiowide&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+    <link href="http://cdn.cheatcc.com/css/normalize.min.css" rel="stylesheet"/>
+    <link href="http://cdn.cheatcc.com/css/header_style.css?2" rel="stylesheet"/>
+    <style>
+     #header {
+        /*background:none;*/
+        height: auto;
+        background: url("http://cdn.cheatcc.com/layout_images/header_bar_background_new.jpg");
+    }
+    #containerHeader {
+        background: none;
+    }
+    .secondary-container {
+        padding-top: 0px;
+    }
+    .site-width {
+        width: 100%;
+    }
+    .body-wrapper{
+        padding-top: 3px;
+    }
+    </style>
+    <div class="header-container ">
+     <header class="wrapper clearfix">
+      <div class="title">
+       <a href="http://www.cheatcc.com">
+        <img alt="Cheat Code Central" src="http://cdn.cheatcc.com/layout_images/header_logo.png"/>
+       </a>
+      </div>
+      <nav>
+       <ul class="clearfix">
+        <li>
+         <a href="http://dispatches.cheatcc.com">
+          Daily Dispatch
+         </a>
+        </li>
+        <li>
+         <a href="http://videos.cheatcc.com">
+          Videos
+         </a>
+        </li>
+        <li>
+         <a href="http://lists.cheatcc.com">
+          Top Lists
+         </a>
+        </li>
+        <li>
+         <a href="http://www.cheatcc.com/extra">
+          Features
+         </a>
+        </li>
+        <li>
+         <a href="http://news.cheatcc.com">
+          News
+         </a>
+        </li>
+       </ul>
+       <div class="clearfix">
+       </div>
+      </nav>
+      <div class="search-box">
+       <form action="http://www.cheatcc.com/search_results.html" method="get">
+        <input class="searchField" id="searchField" name="q" type="text" value="Search for Game"/>
+        <input id="Hidden2" name="client" type="hidden" value="pub-7081624040320322"/>
+        <input name="cx" type="hidden" value="partner-pub-7081624040320322:qio8yg-plpi"/>
+        <input name="cof" type="hidden" value="FORID:11"/>
+        <input name="ie" type="hidden" value="ISO-8859-1"/>
+        <input alt=" " class="searchButton" type="image" value=""/>
+       </form>
+      </div>
+      <div class="social-box">
+       <a href="https://www.facebook.com/cheatcodecentral" target="_blank">
+        <img alt="facebook" src="http://cdn.cheatcc.com/layout_images/facebook.png"/>
+       </a>
+       <a href="https://twitter.com/cheatcc" target="_blank">
+        <img alt="twitter" src="http://cdn.cheatcc.com/layout_images/twitter.png"/>
+       </a>
+      </div>
+     </header>
+    </div>
+    <div class="secondary-container">
+     <header class="wrapper clearfix">
+      <nav>
+       <ul>
+        <li>
+         <a class="xbox360Menu" href="http://www.cheatcc.com/xbox360/xbox360menu.html" title="Xbox 360">
+          Xbox 360
+         </a>
+        </li>
+        <li>
+         <a class="ps3Menu" href="http://www.cheatcc.com/ps3/ps3menu.html" title="PS3">
+          PS3
+         </a>
+        </li>
+        <li>
+         <a class="pcMenu" href="http://www.cheatcc.com/pc/pcmenu.html" title="PC">
+          PC
+         </a>
+        </li>
+        <li>
+         <a class="xboxoneMenu" href="http://www.cheatcc.com/xboxone/xboxonemenu.html" title="Xbox One">
+          Xbox One
+         </a>
+        </li>
+        <li>
+         <a class="ps4Menu" href="http://www.cheatcc.com/ps4/ps4menu.html" title="PS4">
+          PS4
+         </a>
+        </li>
+        <li>
+         <a class="wiiuMenu" href="http://www.cheatcc.com/wiiu/wiiumenu.html" title="Wii U">
+          Wii U
+         </a>
+        </li>
+        <li>
+         <a class="threedsMenu" href="http://www.cheatcc.com/3ds/3dsmenu.html" title="3DS">
+          3DS
+         </a>
+        </li>
+        <li>
+         <a class="vitaMenu" href="http://www.cheatcc.com/psvita/vitamenu.html" title="PS Vita">
+          Vita
+         </a>
+        </li>
+        <li>
+         <a class="wiiMenu" href="http://www.cheatcc.com/wii/wiimenu.html" title="Wii">
+          Wii
+         </a>
+        </li>
+        <li>
+         <a class="dsMenu" href="http://www.cheatcc.com/ds/dsmenu.html" title="DS">
+          DS
+         </a>
+        </li>
+        <li>
+         <a class="pspMenu" href="http://www.cheatcc.com/psp/pspmenu.html" title="PSP">
+          PSP
+         </a>
+        </li>
+        <li>
+         <a class="ps2Menu" href="http://www.cheatcc.com/psx2/ps2menu.html" title="PS2">
+          PS2
+         </a>
+        </li>
+        <li class="otherMenuLI">
+         <a class="otherMenu" href="#" title="Other Systems">
+          Other Systems
+         </a>
+         <ul class="consoles-sub-menu">
+          <li class="consoles-sub-menu-item">
+           <a class="xboxMenu" href="http://www.cheatcc.com/xb/xboxmenu.html" title="Xbox">
+            Xbox
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a class="cubeMenu" href="http://www.cheatcc.com/gc/gcmenu.html" title="GameCube">
+            GameCube
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a class="ps1Menu" href="http://www.cheatcc.com/psx/codes/psxmenu.html" title="PSOne">
+            PSOne
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a class="n64Menu" href="http://www.cheatcc.com/n64/n64menu.html" title="N64">
+            N64
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a class="gbaMenu" href="http://www.cheatcc.com/gba/gbamenu.html" title="GBA">
+            GBA
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item" id="gb-hover">
+           <a href="http://www.cheatcc.com/gb/gbmenu.html">
+            Game Boy
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a href="http://www.cheatcc.com/dc/dcmenu.html">
+            Dreamcast
+           </a>
+          </li>
+          <li class="consoles-sub-menu-item">
+           <a href="http://www.cheatcc.com/dvd/dvdmenu.html">
+            DVD
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="consoles-menu-separator-right">
+        </li>
+       </ul>
+       <div class="clearfix">
+       </div>
+      </nav>
+     </header>
+    </div>
+   </div>
+  </div>
+  <!-- end HEADER -->
+  <!-- begin BODY -->
+  <div id="body">
+   <div class="site-width body-wrapper">
+    <!-- begin BANNER_WIDE -->
+    <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     GS_googleAddAdSenseService("ca-pub-7081624040320322");
+GS_googleEnableAllServices();
+    </script>
+    <script type="text/javascript">
+     GA_googleAddSlot("ca-pub-7081624040320322", "1x1_for_Wallpaper_4");
+    </script>
+    <script type="text/javascript">
+     GA_googleFetchAds();
+    </script>
+    <script type="text/javascript">
+     GA_googleFillSlot("1x1_for_Wallpaper_4");
+    </script>
+    <div class="body-wide-banner">
+     <div class="bannerImage wide-banner-left">
+      <a href="http://lists.cheatcc.com/336">
+       <img src="http://cdn.cheatcc.com/news_images/247_mostprofitgames_topbar.jpg" style="width: 247px; height: 90px;" title="The Most Profitable Games Ever May Surprise You"/>
+      </a>
+     </div>
+     <div class="banner wide-banner-right">
+      <script type="text/javascript">
+       var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+      </script>
+      <script type="text/javascript">
+       googletag.cmd.push(function() {
+    var top_banner_mapping = googletag.sizeMapping().
+      addSize([0, 0], []).
+      addSize([320, 200], [[320, 150], [320, 100], [320, 50]]). // Mobile
+      addSize([690, 200], [[970, 250], [970, 90], [970, 66], [728, 90]]). // Desktop
+      build();
+    var skyscraper_mapping = googletag.sizeMapping().
+      addSize([0, 0], []).
+      addSize([690, 200], [[300, 250], [300, 600]]). // Desktop
+      build();
+    var sidebar_mapping = googletag.sizeMapping().
+      addSize([0, 0], []).
+      addSize([690, 200], [300, 250]). // Desktop
+      build();
+    var bottom_banner_mapping = googletag.sizeMapping().
+      addSize([0, 0], []).
+      addSize([320, 200], [[320, 150], [320, 100], [320, 50]]). // Mobile
+      addSize([690, 200], [[970, 250], [970, 90], [970, 66], [728, 90]]). // Desktop
+      build();
+
+     googletag.defineSlot('/1024759/Xbox_360_Homepage_300x250', [300, 250], 'sidebar-ad-tag').
+      defineSizeMapping(sidebar_mapping).
+      setCollapseEmptyDiv(true).
+      addService(googletag.pubads());
+
+    googletag.defineSlot('/1024759/Xbox_360_Homepage_728x90', [[970, 250], [970, 90], [970, 66], [728, 90], [320, 150], [320, 100], [320, 50]], 'top-banner-ad-tag').
+      defineSizeMapping(top_banner_mapping).
+      setCollapseEmptyDiv(true).
+      addService(googletag.pubads());
+
+    googletag.defineSlot('/1024759/Xbox_360_Homepage_Bottom_728x90', [[970, 250], [970, 90], [970, 66], [728, 90], [320, 150], [320, 100], [320, 50]], 'bottom-banner-ad-tag').
+      defineSizeMapping(bottom_banner_mapping).
+      setCollapseEmptyDiv(true).
+      addService(googletag.pubads());
+
+    googletag.defineSlot('/1024759/Xbox_360_Homepage_Skyscraper', [[300, 250], [300, 600]], 'skyscraper-ad-tag').defineSizeMapping(skyscraper_mapping).
+      setCollapseEmptyDiv(true).
+      addService(googletag.pubads());
+
+    // Start ad fetching
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().addEventListener('slotRenderEnded',
+      function(event) {
+        ad_sizing_checks(event);
+      }
+    );
+    googletag.enableServices();
+  });
+      </script>
+      <div align="center" style="position:relative; z-index:1">
+       <div id="top-banner-ad-tag">
+        <script type="text/javascript">
+         googletag.cmd.push(function() { googletag.display('top-banner-ad-tag'); });
+        </script>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- end BANNER_WIDE -->
+    <div class="body-content">
+     <script language="JavaScript" src="/js/home-slider.js" type="text/javascript">
+     </script>
+     <style>
+      .main-box .title {
+width: 676px !important;
+}
+     </style>
+     <!-- begin HOME_SLIDE -->
+     <div class="main-box">
+      <div class="title">
+       <div id="title-home-slide">
+        Are Expensive Collector's Editions Just a Cheap Rip-Off?
+       </div>
+      </div>
+      <div class="content black-content">
+       <div class="wrapper slide-wrapper">
+        <div id="home-current-slide">
+        </div>
+        <div id="home-current-image">
+         <a href="http://dispatches.cheatcc.com/1757" id="home-current-link" taarget="_blank">
+          <img id="home-display-image" src="http://cdn.cheatcc.com/news_images/daily_arkhamknight71315_slider.jpg"/>
+         </a>
+        </div>
+        <div class="home-thumbs">
+         <ul id="ul-home-slide">
+          <li>
+           <a class="home-slide-item" href="http://cdn.cheatcc.com/news_images/daily_arkhamknight71315_slider.jpg" rel="http://dispatches.cheatcc.com/1757" title="Are Expensive Collector's Editions Just a Cheap Rip-Off?">
+            <img alt="Are Expensive Collector's Editions Just a Cheap Rip-Off?" height="41" src="http://cdn.cheatcc.com/news_images/daily_arkhamknight71315_slidermini.jpg" width="122"/>
+            Collector Rip-Off
+           </a>
+          </li>
+          <li>
+           <a class="home-slide-item" href="http://cdn.cheatcc.com/news_images/top8list_mostprofit_slider.jpg" rel="http://lists.cheatcc.com/336" title="The Most Profitable Games Ever May Surprise You">
+            <img alt="The Most Profitable Games Ever May Surprise You" height="41" src="http://cdn.cheatcc.com/news_images/top8list_mostprofit_slidermini.jpg" width="122"/>
+            Gaming Loot
+           </a>
+          </li>
+          <li>
+           <a class="home-slide-item" href="http://cdn.cheatcc.com/news_images/daily_7915152_savesega_slider.jpg" rel="http://dispatches.cheatcc.com/1751" title="9 Simple Steps to a Sega Revival ">
+            <img alt="9 Simple Steps to a Sega Revival " height="41" src="http://cdn.cheatcc.com/news_images/daily_7915152_savesega_slidermini.jpg" width="122"/>
+            Sega Revival
+           </a>
+          </li>
+          <li>
+           <a class="home-slide-item" href="http://cdn.cheatcc.com/news_images/topten_10gamesthatkilled_slider.jpg" rel="http://lists.cheatcc.com/335" title="Top 10 Games That Killed Their Studios">
+            <img alt="Top 10 Games That Killed Their Studios" height="41" src="http://cdn.cheatcc.com/news_images/topten_10gamesthatkilled_slidermini.jpg" width="122"/>
+            Games That Killed
+           </a>
+          </li>
+          <li>
+           <a class="home-slide-item" href="http://cdn.cheatcc.com/news_images/daily_xboxultimategamesale_77151222_slider.jpg" rel="http://dispatches.cheatcc.com/1747" title="Xbox Ultimate Game Sale vs. the Summer of Arcade">
+            <img alt="Xbox Ultimate Game Sale vs. the Summer of Arcade" height="41" src="http://cdn.cheatcc.com/news_images/daily_xboxultimategamesale_77151222_slidermini.jpg" width="122"/>
+            Xbox Summer Sale
+           </a>
+          </li>
+         </ul>
+         <div class="fixed">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="black-bottom">
+      </div>
+     </div>
+     <!-- end BODY HOME_SLIDE -->
+     <div class="white-line">
+     </div>
+     <div class="game-mnu-wrapper">
+      <ul>
+       <li class="first">
+        <a href="/xbox360/index.html" title="Cheat Codes">
+         CHEAT
+         <br/>
+         CODES
+        </a>
+       </li>
+       <li class="middle">
+        <a href="/xbox360/rev/index.html" title="Reviews &amp; Previews">
+         REVIEWS &amp;
+         <br/>
+         PREVIEWS
+        </a>
+       </li>
+       <li class="middle">
+        <a href="http://videos.cheatcc.com/" title="Videos">
+         VIDEOS
+        </a>
+       </li>
+       <li class="middle">
+        <a href="http://www.cheatcc.com/ccc_newsserver/News.aspx" title="Game News">
+         GAME
+         <br/>
+         NEWS
+        </a>
+       </li>
+       <li class="last">
+        <a href="/xbox360/xbox360rd.html" title="Release Dates">
+         RELEASE
+         <br/>
+         DATES
+        </a>
+       </li>
+      </ul>
+     </div>
+     <!-- begin HOME NEW CONTENT -->
+     <div class="home-new-content">
+      <div class="new">
+       <div class="newImage">
+        <a href="http://dispatches.cheatcc.com/1573">
+         <img alt="It Won't Help Microsoft" height="100" src="http://cdn.cheatcc.com/dispatches/large/Dragon-Age-Inquisition-Jaws-of-Hakkon-DLC-Gets-First-Gameplay-Video-476640-2.jpg" title="It Won't Help Microsoft" width="198"/>
+        </a>
+       </div>
+       <div class="newInfo">
+        <span>
+         It Won't Help Microsoft
+        </span>
+        <br/>
+        <a class="round-button" href="http://dispatches.cheatcc.com/1573">
+         Article
+        </a>
+       </div>
+       <div class="newBand">
+       </div>
+      </div>
+      <div class="new">
+       <div class="newImage">
+        <a href="http://dispatches.cheatcc.com/1574">
+         <img alt="Konami's Future" height="100" src="http://cdn.cheatcc.com/dispatches/large/metalgearv.jpg" title="Konami's Future" width="198"/>
+        </a>
+       </div>
+       <div class="newInfo">
+        <span>
+         Konami's Future
+        </span>
+        <br/>
+        <a class="round-button" href="http://dispatches.cheatcc.com/1574">
+         Article
+        </a>
+       </div>
+       <div class="newBand">
+       </div>
+      </div>
+      <div class="new new-last">
+       <div class="newImage">
+        <a href="http://dispatches.cheatcc.com/1575">
+         <img alt="Ready Player One" height="100" src="http://cdn.cheatcc.com/dispatches/large/ready%20player%20one.jpg" title="Ready Player One" width="198"/>
+        </a>
+       </div>
+       <div class="newInfo">
+        <span>
+         Ready Player One
+        </span>
+        <br/>
+        <a class="round-button" href="http://dispatches.cheatcc.com/1575">
+         Article
+        </a>
+       </div>
+       <div class="newBand">
+       </div>
+      </div>
+     </div>
+     <!-- end HOME NEW CONTENT -->
+     <!-- begin THE LASTESTS -->
+     <div class="main-box">
+      <div class="title tabbed">
+       <div class="tab-title">
+        THE LATEST
+       </div>
+       <div class="tab-menu">
+        <ul>
+         <li>
+          <a class="first_tab selected" href="#" id="tab-menu-reviews">
+           <span>
+            Latest Reviews
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="middle_tab" href="#" id="tab-menu-previews">
+           <span>
+            Latest Previews
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="middle_tab" href="#" id="tab-menu-videos">
+           <span>
+            Latest Videos
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="last_tab" href="#" id="tab-menu-games">
+           <span>
+            Latest News
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="fixed">
+       </div>
+      </div>
+      <script>
+       function handleLinkClick(event,panel,link)
+{
+  event.preventDefault();
+
+  jQuery('.panels').hide();
+  jQuery('#tab-menu-videos').removeClass('selected');
+  jQuery('#tab-menu-reviews').removeClass('selected');
+  jQuery('#tab-menu-previews').removeClass('selected');
+  jQuery('#tab-menu-games').removeClass('selected');
+  panel.show();
+  link.addClass('selected');
+
+  return false;
+}
+
+jQuery(document).ready(function() {
+
+      jQuery('#cheatcc_videos').addClass('panels');
+
+      jQuery('#tab-menu-videos span').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_videos'), jQuery('#tab-menu-videos'));
+      });
+
+      jQuery('#tab-menu-videos').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_videos'), jQuery('#tab-menu-videos'));
+      });
+
+
+
+      jQuery('#cheatcc_reviews').addClass('panels');
+
+      jQuery('#tab-menu-reviews span').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_reviews'), jQuery('#tab-menu-reviews'));
+      });
+
+      jQuery('#tab-menu-reviews').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_reviews'), jQuery('#tab-menu-reviews'));
+      });
+
+
+
+      jQuery('#cheatcc_previews').addClass('panels');
+
+      jQuery('#tab-menu-previews span').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_previews'), jQuery('#tab-menu-previews'));
+      });
+
+      jQuery('#tab-menu-previews').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_previews'), jQuery('#tab-menu-previews'));
+      });
+
+
+
+      jQuery('#cheatcc_news').addClass('panels');
+
+      jQuery('#tab-menu-games span').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_news'), jQuery('#tab-menu-games'));
+      });
+
+      jQuery('#tab-menu-games').click(function(event) {
+        handleLinkClick(event,jQuery('#cheatcc_news'), jQuery('#tab-menu-games'));
+      });
+
+
+
+});
+      </script>
+      <div class="content">
+       <div class="wide-wrapper">
+        <span id="cheatcc_videos" style="display: none;">
+         <iframe allowtransparency="true" frameborder="0" height="1580px" id="_latest" marginheight="0" marginwidth="0" name="_latest" scrolling="no" src="http://videos.cheatcc.com/top?name=xbox360" width="675px">
+         </iframe>
+         <!-- START REVIEWS CONTAINER -->
+        </span>
+        <span id="cheatcc_reviews">
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Telltales Game of Thrones: Episode 4 - Sons of Winter Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/gameofthronessonsofwinter_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/gameofthronessonsofwinterreview.html">
+            <h3>
+             Telltales Game of Thrones: Episode 4 - Sons of Winter
+            </h3>
+           </a>
+           <br/>
+           Telltales A Game of Thrones makes you feel awesome as you play the game, but undermines your choices in the conclusion.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Destiny: House of Wolves Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/destinyhouseofwolves_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/destinyhouseofwolvesreview.html">
+            <h3>
+             Destiny: House of Wolves
+            </h3>
+           </a>
+           <br/>
+           Is House of Wolves really that great?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Life is Strange: Episode 3 - Chaos Theory Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/lifeisstrangeepisode3chaostheory_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/lifeisstrangeepisode3chaostheoryreview.html">
+            <h3>
+             Life is Strange: Episode 3 - Chaos Theory
+            </h3>
+           </a>
+           <br/>
+           Life is Strange: Episode 3: Chaos Theory has the flaws of its predecessors but introduces enough new elements to keep it feeling fresh.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Life is Strang: Episode 2 - Out of Time Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/lifeisstrangeepisode2outoftime_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/lifeisstrangeepisode2outoftimereview.html">
+            <h3>
+             Life is Strang: Episode 2 - Out of Time
+            </h3>
+           </a>
+           <br/>
+           Life is Strange Episode 2: Out of Time deserves to be played despite its flaws.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Telltales Game of Thrones: Episode 3 - The Sword in the Darkness Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/telltalesgameofthronesepisode3theswordinthedarkness_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/telltalesgameofthronesepisode3theswordinthedarknessreview.html">
+            <h3>
+             Telltales Game of Thrones: Episode 3 - The Sword in the Darkness
+            </h3>
+           </a>
+           <br/>
+           After the uneventful Episode 2, Telltales a Game of Thrones Episode 3 plunges us sword first back into an enthralling plot.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Resident Evil: Revelations 2 Episode 4  Metamorphosis Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/residentevilrevelations2episode4metamorphosis_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/residentevilrevelations2episode4metamorphosisreview.html">
+            <h3>
+             Resident Evil: Revelations 2 Episode 4  Metamorphosis
+            </h3>
+           </a>
+           <br/>
+           Resident Evil Revelations 2 Episode 4 is the weakest episode yet.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Tales from the Borderlands: Episode 2: Atlas Mugged Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/talesfromtheborderlandsepisode2atlasmugged_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/talesfromtheborderlandsepisode2atlasmuggedreview.html">
+            <h3>
+             Tales from the Borderlands: Episode 2: Atlas Mugged
+            </h3>
+           </a>
+           <br/>
+           Tales from the Borderlands Episode 2 is one of the best pieces of video game comedy we have yet seen.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Battlefield: Hardline Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/battlefieldhardline_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/battlefieldhardlinereview.html">
+            <h3>
+             Battlefield: Hardline
+            </h3>
+           </a>
+           <br/>
+           Battlefield: Hardline is at its best when its innovating and at its worst when it tries to deliver the same old tired shooter formula.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Resident Evil: Revelations 2 Episode 3  Judgement Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/residentevilrevelations2episode3judgement_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/residentevilrevelations2episode3judgementreview.html">
+            <h3>
+             Resident Evil: Revelations 2 Episode 3  Judgement
+            </h3>
+           </a>
+           <br/>
+           Resident Evil: Revelations 2 Episode 3 shows us yet another side of Resident Evil which lets the supporting characters shine.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Resident Evil Revelations 2: Episode 2: Contemplation Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/residentevilrevelations2episode2contemplation_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/residentevilrevelations2episode2contemplationreview.html">
+            <h3>
+             Resident Evil Revelations 2: Episode 2: Contemplation
+            </h3>
+           </a>
+           <br/>
+           Resident Evil Revelations 2: Episode 2 brings us more of the same from Episode 1.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Resident Evil: Revelations 2 Episode 1  Penal Colony Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/residentevilrevelations2episode1penalcolony_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/residentevilrevelations2episode1penalcolonyreview.html">
+            <h3>
+             Resident Evil: Revelations 2 Episode 1  Penal Colony
+            </h3>
+           </a>
+           <br/>
+           Resident Evil: Revelations 2 Episode 1  Penal Colony is a decent setup for an ongoing horror franchise that doesnt take itself too seriously.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Dragon Ball XenoVerse Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/dragonballxenoverse_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/dragonballxenoversereview.html">
+            <h3>
+             Dragon Ball XenoVerse
+            </h3>
+           </a>
+           <br/>
+           <i>
+            Dragon Ball XenoVerse
+           </i>
+           is an interesting
+           <i>
+            DBZ
+           </i>
+           game whose appeal rests with the ability to make your own custom self-insert
+           <i>
+            DBZ
+           </i>
+           character.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Life is Strange: Episode 1 - Chrysalis Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/lifeisstrangeepisode1chrysalis_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/lifeisstrangeepisode1chrysalisreview.html">
+            <h3>
+             Life is Strange: Episode 1 - Chrysalis
+            </h3>
+           </a>
+           <br/>
+           Life Is Strange is an interesting game that sometimes ends up at war with its own mechanics.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Telltales Game of Thrones: Episode 2 - Lost Lords Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/telltalesgameofthronesepisode2lostlords_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/telltalesgameofthronesepisode2lostlordsreview.html">
+            <h3>
+             Telltales Game of Thrones: Episode 2 - Lost Lords
+            </h3>
+           </a>
+           <br/>
+           Telltales A Game of Thrones Episode 2 may have bitten off more than it can chew.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Saints Row: Gat Out of Hell Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/saintsrowgatoutofhell_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/saintsrowgatoutofhellreview.html">
+            <h3>
+             Saints Row: Gat Out of Hell
+            </h3>
+           </a>
+           <br/>
+           Are you ready for a Hell of a good time?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Resident Evil HD Remaster Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/residentevilhdremaster_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/residentevilhdremasterreview.html">
+            <h3>
+             Resident Evil HD Remaster
+            </h3>
+           </a>
+           <br/>
+           Is the return trip to the mansion really worth it?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Destiny - The Dark Below Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/destinythedarkbelow_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/destinythedarkbelowreview.html">
+            <h3>
+             Destiny - The Dark Below
+            </h3>
+           </a>
+           <br/>
+           Brave Destinys Dark Below, but be warnedthe Darkness may take you.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="The Crew Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/thecrew_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/thecrewreview.html">
+            <h3>
+             The Crew
+            </h3>
+           </a>
+           <br/>
+           The Crew is best when experienced with a group of friends.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Telltales Game of Thrones: Episode 1 - Iron From Ice Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/telltalesgameofthronesepisode1ironfromice_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/telltalesgameofthronesepisode1ironfromicereview.html">
+            <h3>
+             Telltales Game of Thrones: Episode 1 - Iron From Ice
+            </h3>
+           </a>
+           <br/>
+           Telltales Game of Thrones does the HBO series proud.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Tales from the Borderlands: Episode 1 - Zero Sum Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/talesfromtheborderlands_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/talesfromtheborderlandsreview.html">
+            <h3>
+             Tales from the Borderlands: Episode 1 - Zero Sum
+            </h3>
+           </a>
+           <br/>
+           Tales from the Borderlands: Episode 1 - Zero Sum is a genuinely funny cinematic point and click action game.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Escape Dead Island Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/escapedeadisland_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/escapedeadislandreview.html">
+            <h3>
+             Escape Dead Island
+            </h3>
+           </a>
+           <br/>
+           Escape Dead Island has nothing to do with the Dead Island franchise, and it shows.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Far Cry 4 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/farcry4_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/farcry4review.html">
+            <h3>
+             Far Cry 4
+            </h3>
+           </a>
+           <br/>
+           Far Cry 4 might be more of the same but why change a winning formula.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Assassins Creed: Rogue Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/assassinscreedrogue_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/assassinscreedroguereview.html">
+            <h3>
+             Assassins Creed: Rogue
+            </h3>
+           </a>
+           <br/>
+           Assassins Creed: Rogue is a solid title, even for a last-gen offering.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="LEGO Batman 3: Beyond Gotham Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/legobatman3beyondgotham_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/legobatman3beyondgothamreview.html">
+            <h3>
+             LEGO Batman 3: Beyond Gotham
+            </h3>
+           </a>
+           <br/>
+           LEGO Batman 3 is a fun game, but isnt much different from any other LEGO game.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Dragon Age: Inquisition Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/dragonageinquisition_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/dragonageinquisitionreview.html">
+            <h3>
+             Dragon Age: Inquisition
+            </h3>
+           </a>
+           <br/>
+           Dragon Age: Inquisition stumbles a little more than we'd hoped.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Call of Duty: Advanced Warfare Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/callofdutyadvancedwarfare_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/callofdutyadvancedwarfarereview.html">
+            <h3>
+             Call of Duty: Advanced Warfare
+            </h3>
+           </a>
+           <br/>
+           Call of Duty: Advanced Warfare might surprise you. You might enjoy its single-player more than its multiplayer.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Fantasia: Music Evolved Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/fantasiamusicevolved_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/fantasiamusicevolvedreview.html">
+            <h3>
+             Fantasia: Music Evolved
+            </h3>
+           </a>
+           <br/>
+           Fantasia: Music Evolved gets you up and moving to your favorite songs. It will make you feel like a wizard!
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="WWE 2K15 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/wwe2k15_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/wwe2k15review.html">
+            <h3>
+             WWE 2K15
+            </h3>
+           </a>
+           <br/>
+           WWE 2k15 is a huge step backward for the franchise, with less content than 2k14 and 13.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Just Dance 2015 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/justdance2015_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/justdance2015review.html">
+            <h3>
+             Just Dance 2015
+            </h3>
+           </a>
+           <br/>
+           Like pop music? Just Dance 2015 lets you groove out to it in the privacy of your own home!
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Borderlands: The Pre-Sequel! Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/borderlandsthepresequel_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/borderlandsthepresequelreview.html">
+            <h3>
+             Borderlands: The Pre-Sequel!
+            </h3>
+           </a>
+           <br/>
+           Borderlands! Not as Handsome Jack! No gravity! Everyone wins!
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="The Evil Within Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/theevilwithin_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/theevilwithinreview.html">
+            <h3>
+             The Evil Within
+            </h3>
+           </a>
+           <br/>
+           The Evil Within is one of the first truly scary horror games that has come out in a very long time.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="NBA 2K15 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/nba2k15_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/nba2k15review.html">
+            <h3>
+             NBA 2K15
+            </h3>
+           </a>
+           <br/>
+           NBA 2K15 has vastly expanded its single player modes, but in the end is the same game we played last year.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Alien: Isolation Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/alienisolation_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/alienisolationreview.html">
+            <h3>
+             Alien: Isolation
+            </h3>
+           </a>
+           <br/>
+           Alien: Isolation is a step in the right direction, but still doesnt quite get the Alien franchise.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Skylanders: Trap Team Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/skylanderstrapteam_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/skylanderstrapteamreview.html">
+            <h3>
+             Skylanders: Trap Team
+            </h3>
+           </a>
+           <br/>
+           Kaos isnt the only bad guy in town anymore.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="FIFA 15 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/fifa15_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/fifa15review.html">
+            <h3>
+             FIFA 15
+            </h3>
+           </a>
+           <br/>
+           To a casual player, FIFA 15 wont seem different from FIFA 14.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Disney Infinity: Marvel Super Heroes Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/disneyinfinitymarvelsuperheroes_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/disneyinfinitymarvelsuperheroesreview.html">
+            <h3>
+             Disney Infinity: Marvel Super Heroes
+            </h3>
+           </a>
+           <br/>
+           Disney Infinity NEEDED these Marvel characters.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="NHL 15 Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/nhl15_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/nhl15review.html">
+            <h3>
+             NHL 15
+            </h3>
+           </a>
+           <br/>
+           Hockey, hockey, and more hockey.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Destiny Review" border="0" height="93" src="http://cdn.cheatcc.com/news_images/destiny_review.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/destinyreview.html">
+            <h3>
+             Destiny
+            </h3>
+           </a>
+           <br/>
+           Is Destiny as good as everyone hopes it will be?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <br/>
+         <br/>
+         <!-- END REVIEWS CONTAINER -->
+         <!-- START PREVIEWS CONTAINER -->
+        </span>
+        <span id="cheatcc_previews" style="display: none;">
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="" border="0" height="93" src="http://cdn.cheatcc.com/images/imagesps4/mightyno9e32015preview_01.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/mightyno9e32015preview.html">
+            <h3>
+             Mighty No. 9 Preview
+            </h3>
+           </a>
+           <br/>
+           Not just another Mega Man clone.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="" border="0" height="93" src="http://cdn.cheatcc.com/images/imagesxboxone/preview_disneyinfinity30e32015_01.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/disneyinfinity30e32015preview.html">
+            <h3>
+             Disney Infinity 3.0
+            </h3>
+           </a>
+           <br/>
+           Star Wars Joins the Infinity Universe
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="" border="0" height="93" src="http://cdn.cheatcc.com/images/imagesps4/preview_kingsqueste32015preview_03.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/kingsqueste32015preview.html">
+            <h3>
+             King's Quest
+            </h3>
+           </a>
+           <br/>
+           Adventure games have never been bigger.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="LEGO Dimensions Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/legodimensions_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/legodimensionspreview.html">
+            <h3>
+             LEGO Dimensions
+            </h3>
+           </a>
+           <br/>
+           Check out our coverage from E3 2015.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Guitar Hero Live Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/guitarherolive_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/guitarherolivepreview.html">
+            <h3>
+             Guitar Hero Live
+            </h3>
+           </a>
+           <br/>
+           Check out our coverage from E3 2015.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Skylanders: SuperChargers Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/skylanderssuperchargers_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/skylanderssuperchargerspreview.html">
+            <h3>
+             Skylanders: SuperChargers
+            </h3>
+           </a>
+           <br/>
+           Check out our coverage from E3 2015.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Battlefield: Hardline Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/battlefieldhardline_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/battlefieldhardlinepreview.html">
+            <h3>
+             Battlefield: Hardline
+            </h3>
+           </a>
+           <br/>
+           Battlefield: Hardline has a ton of new modes and we give them all a brief review in preparation for launch.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Mortal Kombat X Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/mortalkombatx_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/mortalkombatxpreview.html">
+            <h3>
+             Mortal Kombat X
+            </h3>
+           </a>
+           <br/>
+           We take a look at Mortal Kombat Xs new characters.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Metal Gear Solid V: The Phantom Pain Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/metalgearsolidvthephantompain_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/metalgearsolidvthephantompainpreview.html">
+            <h3>
+             Metal Gear Solid V: The Phantom Pain
+            </h3>
+           </a>
+           <br/>
+           Take a look to see how it is staying true to the nature of the series yet opening up and exploring new ways of doing things.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Dragon Age: Inquisition Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/dragonageinquisition_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/dragonageinquisitionpreview.html">
+            <h3>
+             Dragon Age: Inquisition
+            </h3>
+           </a>
+           <br/>
+           An entire world lives or dies by the choices you make.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Disney Infinity 2.0 Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/disneyinfinity2_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/disneyinfinity2preview.html">
+            <h3>
+             Disney Infinity 2.0
+            </h3>
+           </a>
+           <br/>
+           We take a look at Disney Infinity 2.0 at this year's E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Call of Duty: Advanced Warfare Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/callofdutyadvancedwarfare_preview2.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/callofdutyadvancedwarfarepreview2.html">
+            <h3>
+             Call of Duty: Advanced Warfare
+            </h3>
+           </a>
+           <br/>
+           Sledgehammer Games revolutionizes Call of Duty multiplayer.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Dying Light Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/dyinglight_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/dyinglightpreview.html">
+            <h3>
+             Dying Light
+            </h3>
+           </a>
+           <br/>
+           We take a look at Dying Light at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Skylanders: Trap Team Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/skylanderstrapteam_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/skylanderstrapteampreview.html">
+            <h3>
+             Skylanders: Trap Team
+            </h3>
+           </a>
+           <br/>
+           Activision invited us into New York to take a look at Skylanders: Trap Teams first level.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="LEGO Batman 3: Beyond Gotham Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/legobatman3beyondgotham_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/legobatman3beyondgothampreview.html">
+            <h3>
+             LEGO Batman 3: Beyond Gotham
+            </h3>
+           </a>
+           <br/>
+           We take a look at LEGO Batman 3: Beyond Gotham at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Call of Duty: Advanced Warfare Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/callofdutyadvancedwarfare_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/callofdutyadvancedwarfarepreview.html">
+            <h3>
+             Call of Duty: Advanced Warfare
+            </h3>
+           </a>
+           <br/>
+           We take a look at Call of Duty: Advanced Warfare at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Borderlands: The Pre-Sequel Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/borderlandsthepresequel_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/borderlandsthepresequelpreview.html">
+            <h3>
+             Borderlands: The Pre-Sequel
+            </h3>
+           </a>
+           <br/>
+           We take a look at Borderlands: The Pre-Sequel at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Destiny Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/destiny_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/destinypreview.html">
+            <h3>
+             Destiny
+            </h3>
+           </a>
+           <br/>
+           We take a look at Destiny at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Persona 4 Arena Ultimax Preview" border="0" height="93" src="/images/persona4arenaultimax_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/persona4arenaultimaxpreview.html">
+            <h3>
+             Persona 4 Arena Ultimax
+            </h3>
+           </a>
+           <br/>
+           We take a look at Persona 4 Arena Ultimax at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="The Evil Within Preview" border="0" height="93" src="/images/theevilwithin_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/theevilwithinpreview.html">
+            <h3>
+             The Evil Within
+            </h3>
+           </a>
+           <br/>
+           We take a look at The Evil Within at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Dragon Ball Xenoverse Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/dragonballxenoverse_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/dragonballxenoversepreview.html">
+            <h3>
+             Dragon Ball Xenoverse
+            </h3>
+           </a>
+           <br/>
+           We take a look at Dragon Ball Xenoverse at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Mortal Kombat X Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/mortalkombatx_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/mortalkombatxpreview.html">
+            <h3>
+             Mortal Kombat X
+            </h3>
+           </a>
+           <br/>
+           We take a look at Mortal Kombat X at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Middle-earth: Shadow of Mordor Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/middleearthshadowofmordor_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/middleearthshadowofmordorpreview.html">
+            <h3>
+             Middle-earth: Shadow of Mordor
+            </h3>
+           </a>
+           <br/>
+           We take a look at Middle-earth: Shadow of Mordor at this years E3.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Madden NFL 15 Preview" border="0" height="93" src="http://cdn.cheatcc.com/news_images/maddennfl15_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/maddennfl15preview.html">
+            <h3>
+             Madden NFL 15
+            </h3>
+           </a>
+           <br/>
+           EA looks to prove the best offense is a killer defense!
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Tropico 5 Preview" border="0" height="93" src="/images/tropico5_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/tropico5preview.html">
+            <h3>
+             Tropico 5
+            </h3>
+           </a>
+           <br/>
+           Can you maintain your banana republic throughout the eras?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Murdered: Soul Suspect Preview" border="0" height="93" src="/images/murderedsoulsuspect_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/murderedsoulsuspectpreview.html">
+            <h3>
+             Murdered: Soul Suspect
+            </h3>
+           </a>
+           <br/>
+           Can you find your own killer in Murdered: Soul Suspectand do you really want to?
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow">
+          <div class="latestImage">
+           <img alt="Alien: Isolation Preview" border="0" height="93" src="/images/alienisolation_preview.jpg" width="130"/>
+          </div>
+          <div class="latestRight">
+           <a href="/xbox360/rev/alienisolationpreview.html">
+            <h3>
+             Alien: Isolation
+            </h3>
+           </a>
+           <br/>
+           This Alien wants to party like it's 1979.
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <br/>
+         <br/>
+         <!-- END PREVIEWS CONTAINER -->
+         <!-- START NEWS CONTAINER -->
+        </span>
+        <span id="cheatcc_news" style="display: none;">
+         <div class="latestRow" style="height: auto; padding-bottom: 20px;">
+          <div class="latestRight">
+           <span class="titleLatestRow">
+            Latest News
+           </span>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396767">
+            Into The Stars Now Available on Early Access
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396766">
+            Japanese Solid Snake Voice Actor says Kojima Productions is Closed
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396765">
+            Harada Confirms Tekken X Street Fighter Development
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396764">
+            Scalebound still Under Development
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396763">
+            Metal Gear Solid V: The Phantom Pain Playable at Gamecom 2015
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396762">
+            Of Course Stan Lee is in Lego Marvel's Avengers
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396761">
+            Jade Raymond Takes Charge of EA's Motive Studios and Visceral Games
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396760">
+            PlayStation Versions of Tony Hawks Pro Skater 5 have Cameo Appearances
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396759">
+            The Game Industry Mourns the Passing of Nintendo's Satoru Iwata
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396755">
+            Nintendo Might Not Publish Devils Third in North America (Updated)
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396747">
+            Lizard Squad Member Convicted Of 50,000 Computer Crimes
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396748">
+            Star Wars Uprising Gameplay Reveal Offers Clues Regarding Force Awakens
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396758">
+            Mighty Gunvolt Coming to PS4 and PS Vita as Gal Gunvolt
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396756">
+            Gravity Falls Getting 3DS Platformer Game
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396754">
+            Microsoft won't be Bringing the Xbox One to the 2015 Tokyo Game Show
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396753">
+            Hatoful Boyfriend PlayStation Ports Provide more Pigeon Love
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396752">
+            Call of Duty: Black Ops III Collector's Edition Keeping It Cool with a Mini Fridge
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396750">
+            XCOM: Enemy Within doesn't Matter in XCOM 2
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396751">
+            Ken's Back in Street Fighter V
+           </a>
+           <br/>
+           <br/>
+           <a href="http://news.cheatcc.com/articles/396749">
+            Mortal Kombat X Adds Old-School Fatalities
+           </a>
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow" style="height: auto; padding-bottom: 20px;">
+          <div class="latestRight">
+           <span class="titleLatestRow">
+            Latest Xbox 360 News From N4G.com
+           </span>
+           <br/>
+           <a href="http://n4g.com/news/1758127/digital-v-physical" target="new">
+            Digital v Physical
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758226/witcher-3-in-the-shadow-of-dark-souls" target="new">
+            Witcher 3 - In The Shadow Of Dark Souls
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758312/tony-hawks-pro-skater-5-will-have-exclusive-sony-items" target="new">
+            Tony Hawks Pro Skater 5 Will Have Exclusive Sony Items
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758240/gameondaily-e3-2015-awards-who-are-the-winners" target="new">
+            GameOnDaily E3 2015 Awards- Who are the winners?
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758525/halo-series-reaches-65-million-units-sold" target="new">
+            Halo Series Reaches 65 Million Units Sold
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758302/f1-2014-versus-f1-2015-old-gen-versus-current-gen-f1-games-comparison-screenshots" target="new">
+            F1 2014 versus F1 2015 - Old-Gen versus Current-Gen F1 Games Comparison Screenshots
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758197/prif-reveal-a-number-of-new-and-exciting-videogame-accessories-for-xbox-one-ps4-and-more" target="new">
+            prif reveal a number of new and exciting videogame accessories for Xbox One, PS4 and more
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758004/how-destinys-pvp-converted-a-non-believer" target="new">
+            How Destinys PvP Converted A Non-Believer
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758125/fifa-16-card-concept-design" target="new">
+            FIFA 16 Card Concept Design
+           </a>
+           <br/>
+           <br/>
+           <a href="http://n4g.com/news/1758201/metal-gear-solid-v-the-phantom-pain-playable-at-this-years-gamescom" target="new">
+            Metal Gear Solid V: The Phantom Pain playable at this year's Gamescom
+           </a>
+           <br/>
+           <br/>
+          </div>
+         </div>
+         <div class="latestRow" style="height: auto; padding-bottom: 20px;">
+          <div class="latestRight">
+           <span class="titleLatestRow">
+            Xbox 360 Release Dates From Vgreleases.com
+           </span>
+           <br/>
+           <a href="http://www.vgreleases.com/Xbox360/ReleaseDate-927767.aspx" target="new">
+            Dying Light Release Date - Xbox 360
+           </a>
+           <br/>
+           <br/>
+          </div>
+         </div>
+        </span>
+        <div class="fixed">
+        </div>
+       </div>
+      </div>
+      <div class="bottom_small">
+      </div>
+     </div>
+     <!-- end THE LASTESTS -->
+     <div class="fixed">
+     </div>
+    </div>
+    <!-- begin BODY SIDEBAR -->
+    <div class="body-sidebar">
+     <!-- begin BANNER BIG -->
+     <div class="body-side-banner">
+      <div class="top">
+      </div>
+      <div class="content">
+       <div class="ad_spacing_sky">
+        <div id="skyscraper-ad-tag">
+         <script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display('skyscraper-ad-tag'); });
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="bottom">
+      </div>
+     </div>
+     <!-- end BANNER BIG -->
+     <!-- begin SPOTLIGHT -->
+     <div class="side-box">
+      <div class="top">
+       <div>
+        SPOTLIGHT
+       </div>
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1756" title="An All-New Ken Masters...Like You've Never Seen Him Before ">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/large/Street%20Fighter%20V%20Ken%202.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1756" title="An All-New Ken Masters...Like You've Never Seen Him Before ">
+          An All-New Ken Masters...Like You've Never Seen Him Before
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1755" title="Is Microsoft's HoloLens Just an Afterthought in the World of VR?">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/large/daily_713151258_02.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1755" title="Is Microsoft's HoloLens Just an Afterthought in the World of VR?">
+          Is Microsoft's HoloLens Just an Afterthought in the World of VR?
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1754" title="Why Comic-Con Appeals To Gamers and Geeks Alike ">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/large/daily_7101235_comiccon.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1754" title="Why Comic-Con Appeals To Gamers and Geeks Alike ">
+          Why Comic-Con Appeals To Gamers and Geeks Alike
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1753" title="The Outrage of Overpriced DLC in 2015 ">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/large/Batgirl.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1753" title="The Outrage of Overpriced DLC in 2015 ">
+          The Outrage of Overpriced DLC in 2015
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1752" title="Where Has All the Innovation Gone?">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/large/W3-620x.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1752" title="Where Has All the Innovation Gone?">
+          Where Has All the Innovation Gone?
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="content">
+       <div>
+        <a href="http://dispatches.cheatcc.com/1748" title="Why Backwards Compatibility and DLC Just Don't Mix">
+         <img class="side-box-image" height="150" src="http://cdn.cheatcc.com/dispatches/original/daily_7815249_dlc.jpg" width="300"/>
+        </a>
+        <br/>
+        <br/>
+        <div class="side-box-subtitle">
+         <a href="http://dispatches.cheatcc.com/1748" title="Why Backwards Compatibility and DLC Just Don't Mix">
+          Why Backwards Compatibility and DLC Just Don't Mix
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="line">
+      </div>
+      <div class="bottom">
+      </div>
+     </div>
+     <!-- end SPOTLIGHT -->
+     <!-- begin BANNER_SMALL -->
+     <div class="body-side-banner">
+      <div class="top">
+      </div>
+      <div class="content">
+       <div class="ad_spacing">
+        <div id="sidebar-ad-tag" style="height:250px; width:300px;">
+         <script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display('sidebar-ad-tag'); });
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="bottom">
+      </div>
+     </div>
+     <!-- end BANNER_SMALL -->
+     <div class="side-box">
+      <div class="top">
+       <div>
+        THE DAILY POLL
+       </div>
+      </div>
+      <div class="poll-content">
+       <form action="http://polls.cheatcc.com/vote/3648" class="pollForm" method="post" name="pollForm">
+        <div class="yellow-row">
+         <div>
+          Is movie licensed DLC
+          <a href="http://dispatches.cheatcc.com/1749">
+           the only way to go in gaming?
+          </a>
+         </div>
+         <div style="padding-left:0px;">
+         </div>
+        </div>
+        <div class="white-row">
+         <div>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+           <tr>
+            <td width="20">
+             <input class="poll-vote" name="poll" type="radio" value="22883"/>
+            </td>
+            <td>
+             <label class="poll-label" for="radio1" value="22883">
+              Yes, film only makes for good supplementary materials
+             </label>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <div class="white-row">
+         <div>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+           <tr>
+            <td width="20">
+             <input class="poll-vote" name="poll" type="radio" value="22884"/>
+            </td>
+            <td>
+             <label class="poll-label" for="radio1" value="22884">
+              No, I think licensed games can be good under the right developer
+             </label>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <div class="poll-buttons">
+         <div class="view-history">
+          <input class="form-button" name="viewResults" type="submit" value="Results"/>
+         </div>
+         <div class="vote">
+          <input class="form-button" name="vote" type="submit" value="Vote"/>
+         </div>
+         <div class="view-resutls">
+          <a href="http://polls.cheatcc.com/pollHistory.aspx" title="View Poll History">
+           View Poll History
+          </a>
+         </div>
+        </div>
+        <div class="poll-bottom">
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+    <!-- end BODY SIDEBAR -->
+    <!-- begin BANNER_WIDE -->
+    <div class="body-wide-banner">
+     <div class="bannerImage wide-banner-left">
+      <a href="http://lists.cheatcc.com/334">
+       <img src="http://cdn.cheatcc.com/news_images/247_10gamesrockinsummer.jpg" style="width: 247px; height: 90px;" title="Top 10 Games To Rock Your 4th of July"/>
+      </a>
+     </div>
+     <div class="banner wide-banner-right">
+      <div id="bottom-banner-ad-tag">
+       <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('bottom-banner-ad-tag'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="clear:both;">
+    </div>
+    <!-- end BANNER_WIDE -->
+    <div class="fixed">
+    </div>
+   </div>
+   <div class="fixed">
+   </div>
+  </div>
+  <!-- end BODY -->
+  <!-- begin FOOTER -->
+  <div id="footer">
+   <div class="footer-line-1">
+    <div class="site-width">
+     <div class="footer-logo">
+      <div>
+       <a href="" title="Cheat Code Central">
+        <img alt="Cheat Code Central" height="35" src="/images/footer/logo.png" witdh="117"/>
+       </a>
+      </div>
+     </div>
+     <div class="footer-consoles-menu">
+      <ul>
+       <li class="consoles-menu-separator-left">
+       </li>
+       <li>
+        <a class="homeMenu" href="http://www.cheatcc.com/" title="Home">
+         Home
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="xbox360Menu" href="http://www.cheatcc.com/xbox360/xbox360menu.html" title="Xbox 360">
+         Xbox 360
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="ps3Menu" href="http://www.cheatcc.com/ps3/ps3menu.html" title="PS3">
+         PS3
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="pcMenu" href="http://www.cheatcc.com/pc/pcmenu.html" title="PC">
+         PC
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="xboxoneMenu" href="http://www.cheatcc.com/xboxone/xboxonemenu.html" title="Xbox One">
+         Xbox One
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="ps4Menu" href="http://www.cheatcc.com/ps4/ps4menu.html" title="PS4">
+         PS4
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="wiiuMenu" href="http://www.cheatcc.com/wiiu/wiiumenu.html" title="Wii U">
+         Wii U
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="threedsMenu" href="http://www.cheatcc.com/3ds/3dsmenu.html" title="3DS">
+         3DS
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="vitaMenu" href="http://www.cheatcc.com/psvita/vitamenu.html" title="PS Vita">
+         Vita
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="wiiMenu" href="http://www.cheatcc.com/wii/wiimenu.html" title="Wii">
+         Wii
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="dsMenu" href="http://www.cheatcc.com/ds/dsmenu.html" title="DS">
+         DS
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="pspMenu" href="http://www.cheatcc.com/psp/pspmenu.html" title="PSP">
+         PSP
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li>
+        <a class="ps2Menu" href="http://www.cheatcc.com/psx2/ps2menu.html" title="PS2">
+         PS2
+        </a>
+       </li>
+       <li class="consoles-menu-separator">
+       </li>
+       <li class="otherMenuLI">
+        <a class="otherMenu" href="#" title="Other Systems">
+         Other Systems
+        </a>
+        <ul class="consoles-sub-menu">
+         <li class="consoles-sub-menu-item">
+          <a class="xboxMenu" href="http://www.cheatcc.com/xb/xboxmenu.html" title="Xbox">
+           Xbox
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a class="cubeMenu" href="http://www.cheatcc.com/gc/gcmenu.html" title="GameCube">
+           GameCube
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a class="ps1Menu" href="http://www.cheatcc.com/psx/codes/psxmenu.html" title="PSOne">
+           PSOne
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a class="n64Menu" href="http://www.cheatcc.com/n64/n64menu.html" title="N64">
+           N64
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a class="gbaMenu" href="http://www.cheatcc.com/gba/gbamenu.html" title="GBA">
+           GBA
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item" id="gb-hover">
+          <a href="http://www.cheatcc.com/gb/gbmenu.html">
+           Game Boy
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a href="http://www.cheatcc.com/dc/dcmenu.html">
+           Dreamcast
+          </a>
+         </li>
+         <li class="consoles-sub-menu-item">
+          <a href="http://www.cheatcc.com/dvd/dvdmenu.html">
+           DVD
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="consoles-menu-separator-right">
+       </li>
+      </ul>
+     </div>
+     <div class="footer-main-menu">
+      <div class="footer-main-menu">
+       <a href="http://videos.cheatcc.com/" title="Videos">
+        Videos
+       </a>
+       |
+       <a href="http://www.cheatcc.com/podcast/" title="Podcasts">
+        Podcasts
+       </a>
+       |
+       <a href="http://www.cheatcc.com/extra/" title="Special Features">
+        Special Features
+       </a>
+       |
+       <a href="http://www.cheatcc.com/ccc_newsserver/News.aspx" title="Game News">
+        Game News
+       </a>
+       |
+       <a href="http://www.cheatcc.com/advertise.aspx" title="Advertise With Us">
+        Advertise With Us
+       </a>
+       |
+       <a href="http://www.cheatcc.com/email.html" title="Contact Us">
+        Contact Us
+       </a>
+      </div>
+     </div>
+     <div class="fixed">
+     </div>
+    </div>
+   </div>
+   <div class="footer-line-2">
+    <div class="site-width">
+     <div class="footer-top-stories">
+      <div class="footer-tops-title">
+       <span>
+        Top Stories
+       </span>
+      </div>
+      <div class="storie">
+       <a href="http://news.cheatcc.com/articles/396767">
+        Into The Stars Now Available on Early Access
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com/articles/396766">
+        Japanese Solid Snake Voice Actor says Kojima Productions is Closed
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com/articles/396765">
+        Harada Confirms Tekken X Street Fighter Development
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com/articles/396764">
+        Scalebound still Under Development
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com/articles/396763">
+        Metal Gear Solid V: The Phantom Pain Playable at Gamecom 2015
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com/articles/396762">
+        Of Course Stan Lee is in Lego Marvel's Avengers
+       </a>
+       <br/>
+       <a href="http://news.cheatcc.com">
+        <font color="#cc0000">
+         More News...
+        </font>
+       </a>
+       <br/>
+      </div>
+      <div class="fixed">
+      </div>
+     </div>
+     <div class="footer-top-stories">
+      <div class="footer-tops-title">
+       <span>
+        Don't Miss
+       </span>
+      </div>
+      <div class="storie">
+       <a href="http://dispatches.cheatcc.com/1749" title="">
+        CheatCC Has Discovered the Secret to Movie Licensed Games!
+       </a>
+       <br/>
+       <a href="http://lists.cheatcc.com/335" title="">
+        Top 10 Games That Killed Their Studios
+       </a>
+       <br/>
+       <a href="http://dispatches.cheatcc.com/1751" title="">
+        9 Simple Steps to a Sega Revival
+       </a>
+       <br/>
+       <a href="http://lists.cheatcc.com/336" title="">
+        The Most Profitable Games Ever May Surprise You
+       </a>
+       <br/>
+       <a href="http://dispatches.cheatcc.com/1747" title="">
+        Xbox Ultimate Game Sale vs. the Summer of Arcade
+       </a>
+       <br/>
+       <a href="http://www.cheatcc.com/xboxone/grandtheftauto5cheatscodes.html" title="GTA V Cheats, Codes, Cheat Codes - Xbox One">
+        GTA V Cheats, Codes, Cheat Codes - Xbox One
+       </a>
+       <br/>
+       <a href="http://www.cheatcc.com/ps4/grandtheftauto5cheatscodes.html" title="GTA V Cheats, Codes, Cheat Codes - PS4">
+        GTA V Cheats, Codes, Cheat Codes - PS4
+       </a>
+       <br/>
+       <a href="http://www.cheatcc.com/ps4/farcry4cheatscodes.html" title="Far Cry 4 Cheats, Codes, Cheat Codes - PS4">
+        Far Cry 4 Cheats, Codes, Cheat Codes - PS4
+       </a>
+       <br/>
+      </div>
+      <div class="fixed">
+      </div>
+     </div>
+     <div class="footer-ccc-social">
+      <div class="footer-tops-title">
+       <span>
+        CheatCC Community
+       </span>
+      </div>
+      <div class="storie">
+       <a href="http://www.facebook.com/home.php?#!/pages/Cheat-Code-Central/61147460707" target="_blank" title="Facebook">
+        Facebook
+       </a>
+       <br/>
+       <a href="http://twitter.com/CheatCC" target="_blank" title="Twitter">
+        Twitter
+       </a>
+       <br/>
+      </div>
+      <div class="fixed">
+      </div>
+     </div>
+     <div class="fixed">
+     </div>
+    </div>
+   </div>
+   <div class="footer-line-3">
+    <div class="site-width">
+     <div class="footer-copyright" style="float:left">
+      Copyright  1997-2015 Cheat Code Central. All rights reserved.
+     </div>
+     <div class="footer-privacy" style="float:right">
+      <a href="http://www.cheatcc.com/privacy.html">
+       Privacy Policy
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+  document.write('');
+}
+else {
+  document.write('\x3cscript type="text/javascript" src="http://209.15.236.80/allwebhosts/cheatcccom/script.js"&gt;\x3c/script&gt;');
+}
+  </script>
+  <script src="http://209.15.236.80/allwebhosts/cheatcccom/script.js">
+  </script>
+  <script src="http://ads.pro-market.net/ads/scripts/site-119713.js" type="text/javascript">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1080226-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script src="//secure-us.imrworldwide.com/v60.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var pvar = { cid: "urbangeekmedia", content: "0", server: "secure-us" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+  </script>
+  <noscript>
+   <div>
+    <img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=urbangeekmedia&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+   </div>
+  </noscript>
+  <script type="text/javascript">
+   function initAddThis()
+     {
+       if (typeof addthis != "undefined") {
+          addthis.init();
+        }
+     }
+     // After the DOM has loaded...
+     initAddThis();
+  </script>
+  <script src="/js/jquery.meerkat.1.3.js" type="text/javascript">
+  </script>
+  <div class="meerkat">
+   <a class="close-meerkat" href="#" id="close-meerkat">
+    X
+   </a>
+   <div style="margin:auto; width: 1010px; text-align: center;">
+    <style>
+     .connect_widget_not_connected_text
+{
+  color: white;
+}
+    </style>
+    <div style="width: 650px; float:left;">
+     <div style="width: 420px; float: left; margin-top: 5px;">
+      <a href="http://www.facebook.com/cheatcodecentral" style="color:black;">
+       "Like" CheatCC on Facebook
+      </a>
+     </div>
+     <div style="margin-top: 10px; float:left; width: 230px;">
+      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCheat-Code-Central%2F61147460707&amp;layout=standard&amp;show_faces=false&amp;width=225&amp;action=like&amp;font=segoe+ui&amp;colorscheme=light&amp;height=35" style="border:none; overflow:hidden; width:225px; height:45px;">
+      </iframe>
+     </div>
+    </div>
+    <div style="width: 350px; float: Right; margin-top: 10px;">
+     <a class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/cheatcc">
+      Follow @cheatcc
+     </a>
+     <script>
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+     </script>
+    </div>
+    <div style="clear:both">
+    </div>
+    <div style="clear:both">
+    </div>
+   </div>
+  </div>
+  <!-- end FOOTER -->
+ </body>
+</html>

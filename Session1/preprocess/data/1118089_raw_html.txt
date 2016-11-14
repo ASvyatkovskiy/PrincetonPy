@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta charset="utf-8"/>
+  <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+  <script>
+   (function(window, document, mjs) {
+    window.Mobify = {points: [+new Date], tagVersion: [1, 0]};
+    var isMobile = /ip(hone|od|ad)|android|blackberry.*applewebkit|bb1\d.*mobile/i.test(navigator.userAgent);
+    isBlackList=/Android 2\.|Silk|iPhone OS 4_|iPad; CPU OS 4_/i.test(navigator.userAgent);
+    var optedOut = /mobify-path=($|;)/.test(document.cookie);
+    if (!isMobile || optedOut || isBlackList) {
+        return;
+    }
+ document.write('&lt;plaintext style=display:none&gt;');
+    setTimeout(function() {
+        var mobifyjs = document.createElement('script');
+        var script = document.getElementsByTagName('script')[0];
+
+        mobifyjs.src = mjs;
+        script.parentNode.insertBefore(mobifyjs, script);
+    });
+    })(this, document, 'http://bundle.padsquad.com/almostsupermom/production/mobify.js');
+  </script>
+  <!-- END MOBIFY -->
+  <title>
+   Gluten Free Greek Flatbread - Almost Supermom
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <style type="text/css">
+   .slide-excerpt { width: 50%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			.flexslider { max-width: 680px; max-height: 300px; }
+			.slide-image { max-height: 300px; }
+  </style>
+  <style type="text/css">
+   @media only screen 
+			and (min-device-width : 320px) 
+			and (max-device-width : 480px) {
+				.slide-excerpt { display: none !important; }
+			}
+  </style>
+  <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <meta content="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" name="description"/>
+  <link href="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Gluten Free Greek Flatbread - Almost Supermom" property="og:title"/>
+  <meta content="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" property="og:description"/>
+  <meta content="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html" property="og:url"/>
+  <meta content="Almost Supermom" property="og:site_name"/>
+  <meta content="Gluten Free" property="article:section"/>
+  <meta content="2015-07-13T12:15:48+00:00" property="article:published_time"/>
+  <meta content="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5214-FB.jpg" property="og:image"/>
+  <!-- / Yoast WordPress SEO plugin. -->
+  <link href="http://www.almostsupermom.com/feed" rel="alternate" title="Almost Supermom  Feed" type="application/rss+xml"/>
+  <link href="http://www.almostsupermom.com/comments/feed" rel="alternate" title="Almost Supermom  Comments Feed" type="application/rss+xml"/>
+  <link href="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html/feed" rel="alternate" title="Almost Supermom  Gluten Free Greek Flatbread Comments Feed" type="application/rss+xml"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.1.5" id="yarppWidgetCss-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/themes/lifestyle-pro/style.css?ver=3.0.0" id="lifestyle-pro-theme-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/abg-rich-pins/css/abg-rp-style.css?ver=4.1.5" id="abg-rp-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Acme:400&amp;subset=latin" id="googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/jquery-pin-it-button-for-images/css/style.css?ver=1.38a" id="jquery-pin-it-button-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css?ver=2.3.4" id="mailchimp-for-wp-checkbox-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700&amp;ver=3.0.0" id="google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=2.3.1" id="recent-posts-widget-with-thumbnails-public-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/yet-another-related-posts-plugin/includes/styles_thumbnails.css.php?width=120&amp;height=120&amp;ver=4.2.5" id="yarpp-thumbnails-yarpp-thumbnail-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/mailchimp-for-wp/assets/css/form.min.css?ver=2.3.4" id="mailchimp-for-wp-form-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/commentluv/css/commentluv.css?ver=4.1.5" id="commentluv_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.2" id="slider_styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.almostsupermom.com/wp-includes/js/jquery/jquery.js?ver=1.11.1" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var cl_settings = {"name":"author","url":"url","comment":"comment","email":"email","infopanel":"on","default_on":"on","default_on_admin":"on","cl_version":"2.94","images":"http:\/\/www.almostsupermom.com\/wp-content\/plugins\/commentluv\/images\/","api_url":"http:\/\/204.197.242.82\/~almostsu\/wp-admin\/admin-ajax.php","_fetch":"a86e31a4f1","_info":"2be5d7bb1f","infoback":"white","infotext":"black","template_insert":"","logged_in":"","refer":"http:\/\/www.almostsupermom.com\/2015\/07\/gluten-free-greek-flatbread.html","no_url_message":"Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post","no_http_message":"Please use http:\/\/ in front of your url","no_url_logged_in_message":"You need to visit your profile in the dashboard and update your details with your site URL","no_info_message":"No info was available or an error occured"};
+/* ]]&gt; */
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/commentluv/js/commentluv.js?ver=2.94" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var jpibfi_options = {"imageSelector":"div.jpibfi_container img","disabledClasses":"nopin;wp-smiley","enabledClasses":"","descriptionOption":"3","usePostUrl":"1","minImageHeight":"0","minImageWidth":"0","siteTitle":"Almost Supermom","buttonPosition":"0","debug":"0","containerSelector":"div","pinImageHeight":"41","pinImageWidth":"65","buttonMarginTop":"20","buttonMarginBottom":"20","buttonMarginLeft":"20","buttonMarginRight":"20","retinaFriendly":"0"};
+/* ]]&gt; */
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/jquery-pin-it-button-for-images/js/script.min.js?ver=1.38a" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/abg-rich-pins/js/abg-rich-pins.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9" type="text/javascript">
+  </script>
+  <link href="http://www.almostsupermom.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.almostsupermom.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://www.almostsupermom.com/?p=3567" rel="shortlink"/>
+  <!-- Pinterest Meta Tag added by Pinterest Verify Meta Tag Plugin v1.3: http://tutskid.com/pinterest-verify-meta-tag/ -->
+  <meta content="22775718f2a5b86a19a72998be742cc8" name="p:domain_verify"/>
+  <meta content="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5214-300x200.jpg" name="pubexchange:image"/>
+  <meta content="Gluten Free Greek Flatbread" name="pubexchange:title"/>
+  <script async="" data-cfasync="false" data-sumo-site-id="104d09d253299ab39f7ca6086c53f0104bfd57a1df9320f04dc8b5f8af668a8c" src="//load.sumome.com/">
+  </script>
+  <style media="screen" type="text/css">
+   h4{ font-family:"Acme", arial, sans-serif;}
+  </style>
+  <!-- fonts delivered by Wordpress Google Fonts, a plugin by Adrian3.com -->
+  <script async="" src="http://www.almostsupermom.com/wp-content/plugins/yummly-rich-recipes//js/yrecipe_print.js" type="text/javascript">
+  </script>
+  <link charset="utf-8" href="http://www.almostsupermom.com/wp-content/plugins/yummly-rich-recipes/styles/generic.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="http://www.almostsupermom.com/wp-content/plugins/yummly-rich-recipes/styles/yrecipe-std.css" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 9]&gt;
+		&lt;style type="text/css"&gt;
+			.pinit-overlay {
+				background-image: url( 'http://www.almostsupermom.com/wp-content/plugins/jquery-pin-it-button-for-images/images/transparency_0.png' ) !important;
+			}
+		&lt;/style&gt;
+		&lt;![endif]-->
+  <style type="text/css">
+   a.pinit-button {
+				width: 65px !important;
+				height: 41px !important;
+				background: transparent url('http://www.almostsupermom.com/wp-content/plugins/jquery-pin-it-button-for-images/images/pinit-button.png') no-repeat 0 0 !important;
+				background-size: 65px 41px !important
+			}
+
+			a.pinit-button.pinit-top-left {
+				margin: 20px 0 0 20px			}
+
+			a.pinit-button.pinit-top-right {
+				margin: 20px 20px 0 0			}
+
+			a.pinit-button.pinit-bottom-left {
+				margin: 0 0 20px  20px			}
+
+			a.pinit-button.pinit-bottom-right {
+				margin: 0 20px  20px 0			}
+
+			img.pinit-hover {
+				opacity: 0.7 !important;
+				filter:alpha(opacity=70) !important; /* For IE8 and earlier */
+			}
+  </style>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/genesis-favicon-uploader/favicons/favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <link href="http://www.almostsupermom.com/xmlrpc.php" rel="pingback"/>
+  <style type="text/css">
+   .site-title a { background: url(http://www.almostsupermom.com/wp-content/uploads/2014/07/Header1final1.png) no-repeat !important; }
+  </style>
+  <!--[if lt IE 9]&gt;&lt;script src="//html5shiv.googlecode.com/svn/trunk/html5.js"&gt;&lt;/script&gt;&lt;![endif]-->
+  <script>
+   var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+  </script>
+ </head>
+ <body>
+  <noscript>
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035233&amp;cv=2.0&amp;cj=1"/>
+  </noscript>
+  <!-- All in one Favicon 4.3 -->
+  <link href="http://www.almostsupermom.com/wp-content/uploads/2014/07/favicon.png" rel="icon" type="image/png"/>
+  <style id="custom-background-css" type="text/css">
+   body.custom-background { background-color: #ffffff; background-image: url('http://www.almostsupermom.com/wp-content/uploads/2014/07/dotsbk.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+  </style>
+  <script type="text/javascript">
+   (function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&amp;r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//www.almostsupermom.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&amp;hid=F94CE2EA01043AC9921001A89997F150');
+  </script>
+  <style type="text/css">
+   .mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }
+  </style>
+  <div class="abg_rp_movie_div">
+   <!-- ABG Rich Pins by Antonio Borrero Granell 1.1 -->
+   <meta content="Almost Supermom" property="og:site_name"/>
+   <div itemscope="" itemtype="http://schema.org/Movie">
+    <meta content="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html" itemprop="url"/>
+    <h1 itemprop="name">
+    </h1>
+    <span itemprop="description">
+    </span>
+    <div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+     <span itemprop="ratingValue">
+     </span>
+     <span itemprop="bestRating">
+     </span>
+    </div>
+    <meta content="" itemprop="datePublished"/>
+    <meta content="G" itemprop="contentRating"/>
+   </div>
+   <!-- /ABG Rich Pins -->
+  </div>
+  <!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+  <script type="text/javascript">
+   var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44486419-1', 'auto');
+ 
+	ga('send', 'pageview');
+  </script>
+  <div class="site-container">
+   <header class="site-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+    <div class="wrap">
+     <div class="title-area">
+      <p class="site-title" itemprop="headline">
+       <a href="http://www.almostsupermom.com/">
+        Almost Supermom
+       </a>
+      </p>
+      <p class="site-description" itemprop="description">
+       Able to Leap Piles of Laundry in a Single Bound
+      </p>
+     </div>
+     <aside class="widget-area header-widget-area">
+      <section class="widget widget_text" id="text-21">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="https://www.facebook.com/AlmostSupermom" target="_blank">
+           <img alt="facebook" class="alignnone wp-image-1877 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/facebook2.png" width="51"/>
+          </a>
+          <a href="https://twitter.com/AlmostSupermom" style="font-size: 13px;" target="_blank">
+           <img alt="twitter" class="alignnone wp-image-1881 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/twitter2.png" width="54"/>
+          </a>
+          <a href="http://instagram.com/almostsupermom1" style="font-size: 13px;" target="_blank">
+           <img alt="instagram" class="alignnone wp-image-1878 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/instagram2.png" width="51"/>
+          </a>
+          <a href="mailto: jordyn@almostsupermom.com" style="font-size: 13px;" target="_blank">
+           <img alt="email1" class="alignnone wp-image-1882 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/email12.png" width="54"/>
+          </a>
+          <a href="http://www.pinterest.com/almostsupermom1/" style="font-size: 13px;" target="_blank">
+           <img alt="pinterest" class="alignnone wp-image-1879 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/pinterest2.png" width="50"/>
+          </a>
+          <a href="http://feeds.feedburner.com/AlmostSupermom" style="font-size: 13px;" target="_blank">
+           <img alt="rss" class="alignnone wp-image-1883 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/rss2.png" width="54"/>
+          </a>
+          <a href="http://www.stumbleupon.com/stumbler/almostsupermom1" style="font-size: 13px;" target="_blank">
+           <img alt="stumbleupon" class="alignnone wp-image-1880 size-full" height="45" src="http://www.almostsupermom.com/wp-content/uploads/2014/07/stumbleupon2.png" width="49"/>
+          </a>
+         </center>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-22">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <div class="newsletter">
+           <!-- Begin MailChimp Signup Form -->
+           <form style="border: 0px solid #ccc; padding: 3px; align: left; width: 400px; margin-left: 0px;">
+           </form>
+          </div>
+          <div id="mc_embed_signup">
+           <form action="//almostsupermom.us3.list-manage.com/subscribe/post?u=f42ba645029baa5d8efefdf29&amp;id=142003508d" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank" width:="">
+            <label for="mce-EMAIL">
+            </label>
+            <input class="email" id="mce-EMAIL" name="EMAIL" placeholder="email address" required="" type="email" value=""/>
+            <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Go!"/>
+           </form>
+          </div>
+         </center>
+         <!--End mc_embed_signup-->
+        </div>
+       </div>
+      </section>
+     </aside>
+    </div>
+   </header>
+   <nav class="nav-secondary" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+    <div class="wrap">
+     <ul class="menu genesis-nav-menu menu-secondary" id="menu-menu">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-588" id="menu-item-588">
+       <a href="http://www.almostsupermom.com">
+        Home
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-583" id="menu-item-583">
+       <a href="http://www.almostsupermom.com/category/crafts">
+        Crafts
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-585" id="menu-item-585">
+       <a href="http://www.almostsupermom.com/category/recipes">
+        Recipes
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1788" id="menu-item-1788">
+         <a href="http://www.almostsupermom.com/category/recipes/gluten-free">
+          Gluten Free
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1789" id="menu-item-1789">
+         <a href="http://www.almostsupermom.com/category/recipes/paleo">
+          Paleo
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1790" id="menu-item-1790">
+         <a href="http://www.almostsupermom.com/category/recipes/desserts">
+          Desserts
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-586" id="menu-item-586">
+       <a href="http://www.almostsupermom.com/category/sew-fun">
+        Sew Fun
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-587" id="menu-item-587">
+       <a href="http://www.almostsupermom.com/category/traveling-circus">
+        Traveling Circus
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1791" id="menu-item-1791">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/beachy-getaways">
+          Beachy Getaways
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1792" id="menu-item-1792">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/hotels">
+          Hotels
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1793" id="menu-item-1793">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/mom-needs-a-vacation">
+          Mom Needs A Vacation
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1794" id="menu-item-1794">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/museums">
+          Museums
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1795" id="menu-item-1795">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/resorts">
+          Resorts
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1796" id="menu-item-1796">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/restaurants">
+          Restaurants
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1797" id="menu-item-1797">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/tennessee">
+          Tennessee
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1798" id="menu-item-1798">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/waterparks">
+          Waterparks
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1799" id="menu-item-1799">
+         <a href="http://www.almostsupermom.com/category/traveling-circus/zoos-aquariums">
+          Zoos &amp; Aquariums
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-584" id="menu-item-584">
+       <a href="http://www.almostsupermom.com/category/keeping-it-real">
+        Keepin It Real
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2477" id="menu-item-2477">
+       <a href="http://www.almostsupermom.com/category/disney">
+        Disney
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <center>
+    <script language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1707074645&amp;adSize=728x90" type="text/javascript">
+    </script>
+   </center>
+   <div class="site-inner">
+    <div class="content-sidebar-wrap">
+     <main class="content" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog" role="main">
+      <div class="breadcrumb">
+       You are here:
+       <a href="http://www.almostsupermom.com/">
+        Home
+       </a>
+       /
+       <a href="http://www.almostsupermom.com/category/recipes">
+        Recipes
+       </a>
+       /
+       <a href="http://www.almostsupermom.com/category/recipes/gluten-free">
+        Gluten Free
+       </a>
+       / Gluten Free Greek Flatbread
+      </div>
+      <article class="post-3567 post type-post status-publish format-standard has-post-thumbnail category-gluten-free category-recipes entry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+       <header class="entry-header">
+        <h1 class="entry-title" itemprop="headline">
+         Gluten Free Greek Flatbread
+        </h1>
+        <p class="entry-meta">
+         <time class="entry-time" datetime="2015-07-13T12:15:48+00:00" itemprop="datePublished">
+          July 13, 2015
+         </time>
+         by
+         <span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+          <a class="entry-author-link" href="http://www.almostsupermom.com/author/almostsu" itemprop="url" rel="author">
+           <span class="entry-author-name" itemprop="name">
+            Jordyn
+           </span>
+          </a>
+         </span>
+         <span class="entry-comments-link">
+          <a href="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html#respond">
+           Leave a Comment
+          </a>
+         </span>
+        </p>
+       </header>
+       <div class="entry-content" itemprop="text">
+        <input class="jpibfi" type="hidden"/>
+        <h2>
+         <a href="http://www.almostsupermom.com/wp-content/uploads/2015/07/Gluten-Free-Greek-Flatbread.jpg">
+          <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3568" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Gluten-Free-Greek-Flatbread.jpg" height="1020" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="680"/>
+          <noscript>
+           <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3568" height="1020" src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Gluten-Free-Greek-Flatbread.jpg" width="680"/>
+          </noscript>
+         </a>
+        </h2>
+        <h2>
+         Gluten Free Greek Flatbread
+        </h2>
+        <p>
+         Necessity is the mother of invention, so is the case with this scrumptious
+         <strong>
+          gluten free greek flatbread.
+         </strong>
+        </p>
+        <p>
+         It is so hot here in Atlanta. We are practically melting in the oppressive, sticky heat that the south is known for. Its the kind of heat that makes you want to sit on the couch and do nothing until the sun goes down. Turning on the oven is a repulsive thought as it will contribute to the overwhelming heat, so we nourish ourselves with salads and cold sandwiches in attempt to avoid turning into a puddle.
+        </p>
+        <p>
+         The problem with salads and sandwiches is they can get boring. Really boring. In attempt to shake things up but stay cool, Ive been experimenting with different recipes that taste delicious, but require no cooking , at least not in the heat of the day.
+        </p>
+        <p>
+         <a href="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5214.jpg">
+          <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3569" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5214.jpg" height="453" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="680"/>
+          <noscript>
+           <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3569" height="453" src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5214.jpg" width="680"/>
+          </noscript>
+         </a>
+        </p>
+        <p>
+         One of the recipes that I created is this
+         <strong>
+          Gluten Free Greek Flatbread,
+         </strong>
+         I can make the crust the night before when it isnt so hot and then throw the toppings on the next day for a quick and easy gluten free lunch.
+        </p>
+        <p>
+        </p>
+        <div class="yrecipe-container-border" id="yrecipe-container-70">
+         <div class="yrecipe" id="yrecipe-container" itemscope="" itemtype="http://schema.org/Recipe">
+          <div id="yrecipe-innerdiv">
+           <div class="item b-b">
+            <div class="yrecipe-print-link fl-r">
+             <a class="butn-link" href="javascript:void(0);" onclick="yrPrint('yrecipe-container-70', 'http://www.almostsupermom.com/wp-content/plugins/yummly-rich-recipes/', '' ); return false" title="Print this recipe">
+              Print
+             </a>
+            </div>
+            <div class="y-recipe-link fl-r hide-print" id="y-recipe-link-70">
+             <a class="YUMMLY-YUM-BUTTON yummly-button add-recipe" href="//yummly.com" rel="nofollow">
+              Yum
+             </a>
+             <script src="https://www.yummly.com/js/widget.js?wordpress">
+             </script>
+            </div>
+            <div class="b-b h-1 strong" id="yrecipe-title" itemprop="name">
+             Gluten Free Greek Flatbread
+            </div>
+           </div>
+           <div class="ymeta yclear">
+            <div class="fl-l width-50">
+            </div>
+            <div class="fl-l width-50">
+            </div>
+            <div class="yclear">
+            </div>
+           </div>
+           <div class="img-desc-wrap">
+            <p class="t-a-c hide-print">
+             <img alt="Gluten Free Greek Flatbread" class="photo" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5216.jpg" itemprop="image" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" title="Gluten Free Greek Flatbread"/>
+            </p>
+            <noscript>
+             <img alt="Gluten Free Greek Flatbread" class="photo" itemprop="image" src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5216.jpg" title="Gluten Free Greek Flatbread"/>
+            </noscript>
+           </div>
+           <p class="h-4 strong" id="yrecipe-ingredients">
+            Ingredients
+           </p>
+           <ul id="yrecipe-ingredients-list">
+            <li class="ingredient" id="yrecipe-ingredient-0" itemprop="ingredients">
+             <a class="ingredient-link" href="http://www.almostsupermom.com/2013/12/3-ingredient-gluten-freepaleo-crackers.html" target="_blank">
+              Paleo cracker recipe
+             </a>
+            </li>
+            <li class="ingredient" id="yrecipe-ingredient-1" itemprop="ingredients">
+             1/2 cup garlic hummus
+            </li>
+            <li class="ingredient" id="yrecipe-ingredient-2" itemprop="ingredients">
+             1/2 sliced cherry tomatoes
+            </li>
+            <li class="ingredient" id="yrecipe-ingredient-3" itemprop="ingredients">
+             1/2 cup olives (black or green, whatever you prefer)
+            </li>
+            <li class="ingredient" id="yrecipe-ingredient-4" itemprop="ingredients">
+             1/2 cup feta cheese
+            </li>
+           </ul>
+           <p class="h-4 strong" id="yrecipe-instructions">
+            Instructions
+           </p>
+           <ol class="instructions" id="yrecipe-instructions-list">
+            <li class="instruction" id="yrecipe-instruction-0" itemprop="recipeInstructions">
+             Prepare the paleo cracker recipe according to the directions found
+             <a class="instruction-link" href="http://www.almostsupermom.com/2013/12/3-ingredient-gluten-freepaleo-crackers.html" target="_blank">
+              here
+             </a>
+             . Only do not cut it before putting it in the oven.
+            </li>
+            <li class="instruction" id="yrecipe-instruction-1" itemprop="recipeInstructions">
+             Bake the crust for 8 minutes
+            </li>
+            <li class="instruction" id="yrecipe-instruction-2" itemprop="recipeInstructions">
+             Let cool (at this point you can wrap the crust in saran wrap and leave it for the next day)
+            </li>
+            <li class="instruction" id="yrecipe-instruction-3" itemprop="recipeInstructions">
+             Spread hummus on flatbread
+            </li>
+            <li class="instruction" id="yrecipe-instruction-4" itemprop="recipeInstructions">
+             Top with tomatoes, olives and feta cheese
+            </li>
+           </ol>
+           <div class="y-linkback">
+            Schema/Recipe SEO Data Markup by
+            <a alt="Yummly Rich Recipes" href="http://plugin.yummly.com/" rel="nofollow" target="_blank" title="Yummly Rich Recipes">
+             Yummly Rich Recipes
+            </a>
+           </div>
+           <div class="yummly-recipe-plugin" style="display: none;">
+            0.1
+           </div>
+           <a href="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html" id="y-printed-permalink" title="Permalink to Recipe">
+            http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html
+           </a>
+          </div>
+         </div>
+         <script type="text/javascript">
+          wk_bootstrap();
+         </script>
+         <img data-lazy-src="http://yummly-static.s3.amazonaws.com/pixels/wordpress-plugin.png?url=http%3A%2F%2Fwww.almostsupermom.com%2F2015%2F07%2Fgluten-free-greek-flatbread.html" height="0" id="yrecipe-beacon" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="0"/>
+         <noscript>
+          <img height="0" id="yrecipe-beacon" src="http://yummly-static.s3.amazonaws.com/pixels/wordpress-plugin.png?url=http%3A%2F%2Fwww.almostsupermom.com%2F2015%2F07%2Fgluten-free-greek-flatbread.html" width="0"/>
+         </noscript>
+        </div>
+        <p>
+        </p>
+        <p>
+         You definitely have to try this gluten free greek flatbread, it has become one of my favorite lunches and beats the heck out of a boring sandwich or salad any day. Enjoy!
+        </p>
+        <p>
+         <a href="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5218.jpg">
+          <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3570" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5218.jpg" height="992" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="680"/>
+          <noscript>
+           <img alt="Gluten Free Greek Flatbread. Sick of boring salads and sandwiches for lunch? This gluten free recipe is just what you are looking for. Delicious , easy and a great summer lunch!" class="aligncenter size-full wp-image-3570" height="992" src="http://www.almostsupermom.com/wp-content/uploads/2015/07/Greek-Flatbread-5218.jpg" width="680"/>
+          </noscript>
+         </a>
+        </p>
+        <div id="pubexchange_below_content">
+        </div>
+        <div class="yarpp-related">
+         <h3>
+          Related posts:
+         </h3>
+         <div class="yarpp-thumbnails-horizontal">
+          <a class="yarpp-thumbnail" href="http://www.almostsupermom.com/2015/04/gluten-free-spicy-garlic-chicken-flatbread.html" title="Gluten Free Spicy Garlic Chicken Flatbread">
+           <img alt="Gluten Free Spicy Chicken Flatbread. Great gluten free recipe for lunch or dinner. Made with an almond flour crust and simple ingredients. Could be made into a paleo recipe if you don't use the cheese. Yum!" class="attachment-yarpp-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/04/Spicy-Chicken-flatbread-2660-120x120.jpg" height="120" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="120"/>
+           <noscript>
+            <img alt="Gluten Free Spicy Chicken Flatbread. Great gluten free recipe for lunch or dinner. Made with an almond flour crust and simple ingredients. Could be made into a paleo recipe if you don't use the cheese. Yum!" class="attachment-yarpp-thumbnail wp-post-image" height="120" src="http://www.almostsupermom.com/wp-content/uploads/2015/04/Spicy-Chicken-flatbread-2660-120x120.jpg" width="120"/>
+           </noscript>
+           <span class="yarpp-thumbnail-title">
+            Gluten Free Spicy Garlic Chicken Flatbread
+           </span>
+          </a>
+          <a class="yarpp-thumbnail" href="http://www.almostsupermom.com/2015/06/gluten-free-chicken-alfredo-flatbread-with-bacon.html" title="Best Ever Gluten Free Chicken Alfredo Flatbread with Bacon">
+           <img alt="Gluten Free Chicken Alfredo Flatbread. This Gluten free recipe is delicious and made from all natural ingredients. Definitely have to try this!" class="attachment-yarpp-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/05/alfredo-flatbread-2683-120x120.jpg" height="120" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="120"/>
+           <noscript>
+            <img alt="Gluten Free Chicken Alfredo Flatbread. This Gluten free recipe is delicious and made from all natural ingredients. Definitely have to try this!" class="attachment-yarpp-thumbnail wp-post-image" height="120" src="http://www.almostsupermom.com/wp-content/uploads/2015/05/alfredo-flatbread-2683-120x120.jpg" width="120"/>
+           </noscript>
+           <span class="yarpp-thumbnail-title">
+            Best Ever Gluten Free Chicken Alfredo Flatbread with Bacon
+           </span>
+          </a>
+          <a class="yarpp-thumbnail" href="http://www.almostsupermom.com/2015/05/bbq-chicken-bacon-and-pineapple-flatbread.html" title="Gluten Free BBQ Chicken, Bacon and Pineapple Flatbread">
+           <img alt="BBQ flatbread-2840 feature" class="attachment-yarpp-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/05/BBQ-flatbread-2840-feature-120x120.jpg" height="120" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="120"/>
+           <noscript>
+            <img alt="BBQ flatbread-2840 feature" class="attachment-yarpp-thumbnail wp-post-image" height="120" src="http://www.almostsupermom.com/wp-content/uploads/2015/05/BBQ-flatbread-2840-feature-120x120.jpg" width="120"/>
+           </noscript>
+           <span class="yarpp-thumbnail-title">
+            Gluten Free BBQ Chicken, Bacon and Pineapple Flatbread
+           </span>
+          </a>
+         </div>
+        </div>
+        <!--&lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"&gt;
+		&lt;rdf:Description rdf:about="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html"
+    dc:identifier="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html"
+    dc:title="Gluten Free Greek Flatbread"
+    trackback:ping="http://www.almostsupermom.com/2015/07/gluten-free-greek-flatbread.html/trackback" /&gt;
+&lt;/rdf:RDF&gt;-->
+        <img src="http://www.almostsupermom.com/wp-content/uploads/2014/03/signature.png"/>
+       </div>
+       <footer class="entry-footer">
+        <p class="entry-meta">
+         <span class="entry-categories">
+          Filed Under:
+          <a href="http://www.almostsupermom.com/category/recipes/gluten-free" rel="category tag">
+           Gluten Free
+          </a>
+          ,
+          <a href="http://www.almostsupermom.com/category/recipes" rel="category tag">
+           Recipes
+          </a>
+         </span>
+        </p>
+       </footer>
+      </article>
+      <div class="comment-respond" id="respond">
+       <h3 class="comment-reply-title" id="reply-title">
+        Leave a Reply
+        <small>
+         <a href="/2015/07/gluten-free-greek-flatbread.html#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+          Cancel reply
+         </a>
+        </small>
+       </h3>
+       <form action="http://www.almostsupermom.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate="">
+        <p class="comment-notes">
+         <span id="email-notes">
+          Your email address will not be published.
+         </span>
+         Required fields are marked
+         <span class="required">
+          *
+         </span>
+        </p>
+        <p class="comment-form-author">
+         <label for="author">
+          Name
+          <span class="required">
+           *
+          </span>
+         </label>
+         <input aria-required="true" id="author" name="author" size="30" type="text" value=""/>
+        </p>
+        <p class="comment-form-email">
+         <label for="email">
+          Email
+          <span class="required">
+           *
+          </span>
+         </label>
+         <input aria-describedby="email-notes" aria-required="true" id="email" name="email" size="30" type="email" value=""/>
+        </p>
+        <p class="comment-form-url">
+         <label for="url">
+          Website
+         </label>
+         <input id="url" name="url" size="30" type="url" value=""/>
+        </p>
+        <p class="comment-form-comment">
+         <label for="comment">
+          Comment
+         </label>
+         <textarea aria-describedby="form-allowed-tags" aria-required="true" cols="45" id="comment" name="comment" rows="8">
+         </textarea>
+        </p>
+        <p class="form-allowed-tags" id="form-allowed-tags">
+         You may use these
+         <abbr title="HyperText Markup Language">
+          HTML
+         </abbr>
+         tags and attributes:
+         <code>
+          &lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt;
+         </code>
+        </p>
+        <p class="form-submit">
+         <input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/>
+         <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="3567"/>
+         <input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+        </p>
+        <p style="display: none;">
+         <input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="cf1191d751"/>
+        </p>
+        <input id="cl_post_title" name="cl_post_title" type="hidden"/>
+        <input id="cl_post_url" name="cl_post_url" type="hidden"/>
+        <input id="cl_prem" name="cl_prem" type="hidden"/>
+        <div id="commentluv">
+         <div id="cl_messages">
+         </div>
+         <input checked="checked" id="doluv" name="doluv" type="checkbox"/>
+         <span id="mylastpost">
+          <a href="http://www.commentluv.com" target="_blank" title="CommentLuv is enabled">
+           <img alt="CommentLuv badge" src="http://www.almostsupermom.com/wp-content/plugins/commentluv/images/CL91_default.png"/>
+          </a>
+         </span>
+         <span id="showmorespan">
+          <img alt="Show more posts" class="clarrow" id="showmore" src="http://www.almostsupermom.com/wp-content/plugins/commentluv/images/down-arrow.gif" style="display:none;" title="Show more posts"/>
+         </span>
+        </div>
+        <div id="lastposts" style="display:none;">
+        </div>
+        <!-- MailChimp for WordPress v2.3.4 - https://mc4wp.com/ -->
+        <p class="mc4wp-checkbox-comment_form" id="mc4wp-checkbox">
+         <label>
+          <input name="_mc4wp_subscribe_comment_form" type="checkbox" value="1"/>
+          Sign me up for the newsletter!
+         </label>
+        </p>
+        <textarea name="_mc4wp_required_but_not_really" style="display: none !important;">
+        </textarea>
+        <!-- / MailChimp for WordPress -->
+        <p style="display: none;">
+         <input id="ak_js" name="ak_js" type="hidden" value="81"/>
+        </p>
+       </form>
+      </div>
+      <!-- #respond -->
+     </main>
+     <aside class="sidebar sidebar-primary widget-area" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
+      <section class="widget widget_search" id="search-3">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         Search
+        </h4>
+        <form action="http://www.almostsupermom.com/" class="search-form" method="get" role="search">
+         <input name="s" placeholder="Search this website" type="search"/>
+         <input type="submit" value="Search"/>
+        </form>
+       </div>
+      </section>
+      <section class="widget widget_dpe_fp_widget" id="dpe_fp_widget-2">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         Whats Hot
+        </h4>
+        <ul class="dpe-flexible-posts">
+         <li class="post-3387 post type-post status-publish format-standard has-post-thumbnail category-desserts category-disney category-recipes entry" id="post-3387">
+          <a href="http://www.almostsupermom.com/2015/06/healthy-dole-whip-only-takes-2-ingredients-and-2-minutes.html">
+           <img alt="dole whip-4057 FB" class="attachment-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/06/dole-whip-4057-FB-150x150.jpg" height="150" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="150"/>
+           <noscript>
+            <img alt="dole whip-4057 FB" class="attachment-thumbnail wp-post-image" height="150" src="http://www.almostsupermom.com/wp-content/uploads/2015/06/dole-whip-4057-FB-150x150.jpg" width="150"/>
+           </noscript>
+           <div class="title">
+            Healthy Dole Whip  Only Takes 2 Ingredients and 2 minutes!
+           </div>
+          </a>
+         </li>
+         <li class="post-98 post type-post status-publish format-standard has-post-thumbnail category-gluten-free category-paleo category-recipes entry" id="post-98">
+          <a href="http://www.almostsupermom.com/2013/12/3-ingredient-gluten-freepaleo-crackers.html">
+           <img alt="3 Ingredient Paleo Crackers 2" class="attachment-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2013/12/3-Ingredient-Paleo-Crackers-2-150x150.jpg" height="150" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="150"/>
+           <noscript>
+            <img alt="3 Ingredient Paleo Crackers 2" class="attachment-thumbnail wp-post-image" height="150" src="http://www.almostsupermom.com/wp-content/uploads/2013/12/3-Ingredient-Paleo-Crackers-2-150x150.jpg" width="150"/>
+           </noscript>
+           <div class="title">
+            3 Ingredient Gluten Free &amp; Paleo Crackers
+           </div>
+          </a>
+         </li>
+         <li class="post-3441 post type-post status-publish format-standard has-post-thumbnail category-gluten-free category-paleo category-recipes entry" id="post-3441">
+          <a href="http://www.almostsupermom.com/2015/06/bacon-ranch-chicken-kabobs.html">
+           <img alt="Bacon and Ranch Chicken Kabob Recipe. Who doesn't love ranch or bacon? Put them together with some chicken and grill them for an amazing grill recipe!" class="attachment-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/06/Bacon-and-Ranch-Chicken-Kabobs-4095-150x150.jpg" height="150" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="150"/>
+           <noscript>
+            <img alt="Bacon and Ranch Chicken Kabob Recipe. Who doesn't love ranch or bacon? Put them together with some chicken and grill them for an amazing grill recipe!" class="attachment-thumbnail wp-post-image" height="150" src="http://www.almostsupermom.com/wp-content/uploads/2015/06/Bacon-and-Ranch-Chicken-Kabobs-4095-150x150.jpg" width="150"/>
+           </noscript>
+           <div class="title">
+            Bacon &amp; Ranch Chicken Kabobs
+           </div>
+          </a>
+         </li>
+         <li class="post-3260 post type-post status-publish format-standard has-post-thumbnail category-desserts category-recipes entry" id="post-3260">
+          <a href="http://www.almostsupermom.com/2015/05/no-churn-3-ingredient-cookies-n-cream-ice-cream.html">
+           <img alt="No Churn 3 Ingredient Cookies &amp; Cream Ice Cream. What kid or adult doesn't love Cookies 'n Cream ice cream on a hot summer day." class="attachment-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/05/Oreo-Ice-Cream-2809-150x150.jpg" height="150" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="150"/>
+           <noscript>
+            <img alt="No Churn 3 Ingredient Cookies &amp; Cream Ice Cream. What kid or adult doesn't love Cookies 'n Cream ice cream on a hot summer day." class="attachment-thumbnail wp-post-image" height="150" src="http://www.almostsupermom.com/wp-content/uploads/2015/05/Oreo-Ice-Cream-2809-150x150.jpg" width="150"/>
+           </noscript>
+           <div class="title">
+            No Churn 3 Ingredient Cookies n Cream Ice Cream
+           </div>
+          </a>
+         </li>
+         <li class="post-3337 post type-post status-publish format-standard has-post-thumbnail category-sew-fun entry" id="post-3337">
+          <a href="http://www.almostsupermom.com/2015/05/diy-upcycled-t-shirt-dress-for-girls.html">
+           <img alt="method-3686" class="attachment-thumbnail wp-post-image" data-lazy-src="http://www.almostsupermom.com/wp-content/uploads/2015/05/method-3686-150x150.jpg" height="150" src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" width="150"/>
+           <noscript>
+            <img alt="method-3686" class="attachment-thumbnail wp-post-image" height="150" src="http://www.almostsupermom.com/wp-content/uploads/2015/05/method-3686-150x150.jpg" width="150"/>
+           </noscript>
+           <div class="title">
+            DIY Upcycled T-shirt Dress for Girls
+           </div>
+          </a>
+         </li>
+        </ul>
+        <!-- .dpe-flexible-posts -->
+       </div>
+      </section>
+      <section class="widget widget_archive" id="archives-3">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         Archives
+        </h4>
+        <select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+         <option value="">
+          Select Month
+         </option>
+         <option value="http://www.almostsupermom.com/2015/07">
+          July 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/06">
+          June 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/05">
+          May 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/04">
+          April 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/03">
+          March 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/02">
+          February 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2015/01">
+          January 2015
+         </option>
+         <option value="http://www.almostsupermom.com/2014/12">
+          December 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/11">
+          November 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/10">
+          October 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/09">
+          September 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/08">
+          August 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/07">
+          July 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/06">
+          June 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/05">
+          May 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/04">
+          April 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/03">
+          March 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/02">
+          February 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2014/01">
+          January 2014
+         </option>
+         <option value="http://www.almostsupermom.com/2013/12">
+          December 2013
+         </option>
+         <option value="http://www.almostsupermom.com/2013/11">
+          November 2013
+         </option>
+         <option value="http://www.almostsupermom.com/2013/10">
+          October 2013
+         </option>
+         <option value="http://www.almostsupermom.com/2013/09">
+          September 2013
+         </option>
+         <option value="http://www.almostsupermom.com/2013/08">
+          August 2013
+         </option>
+         <option value="http://www.almostsupermom.com/2013/07">
+          July 2013
+         </option>
+        </select>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-5">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="http://www.faveglutenfreerecipes.com/Editors-Picks/Top-100-Gluten-Free-Recipes-of-2014">
+           <br/>
+           <img src="http://www.almostsupermom.com/wp-content/uploads/2014/12/Top-Blogger-Button-FGFR-e1419269000885.jpg"/>
+          </a>
+         </center>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-15">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <!-- Your CGC Badge: Congratulations! -->
+          <script src="https://s3.amazonaws.com/cgc-badge-v2/load.min.js" type="text/javascript">
+          </script>
+          <script src="https://s3.amazonaws.com/cgc-badge-v2/common.js" type="text/javascript">
+          </script>
+          <script src="http://badge.clevergirlscollective.com/v2/9L6014Zx8kHpP2GBc3UV1kveT9nofNbO.js" type="text/javascript">
+          </script>
+          <!-- END CGC Badge -->
+         </center>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-26">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="http://www.almostsupermom.com/my-favorite-link-parties">
+           <br/>
+           <img src="http://www.almostsupermom.com/wp-content/uploads/2015/06/Link-Party.jpg"/>
+          </a>
+         </center>
+        </div>
+       </div>
+      </section>
+     </aside>
+    </div>
+   </div>
+   <div class="footer-widgets">
+    <div class="wrap">
+     <div class="footer-widgets-1 widget-area">
+      <section class="widget widget_text" id="text-14">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="http://www.trekaroo.com/people/almostsupermom">
+           <br/>
+           <img src="http://i1274.photobucket.com/albums/y431/jordyncoffin/7443b8c8-4cfa-48ee-99d5-ad59462d6315_zpsa12b3f04.png"/>
+          </a>
+         </center>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="footer-widgets-2 widget-area">
+      <section class="widget widget_text" id="text-17">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="http://cbi.as/sofab">
+           <img src="http://badges.collectivebias.com/sofabbadge.png?utm_source=sofab&amp;utm_medium=community&amp;utm_campaign=badge_id5925"/>
+          </a>
+         </center>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-24">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <script language="JavaScript" type="text/javascript">
+          glam_affiliate_id = '1707074645';
+glam_logo_type = 'GFamily';
+glam_logo_size = '160x24';
+color_or_grayscale_flag ='';
+glam_logo_color = 'wht';
+glam_gs_logo_color = 'wht';
+glam_logo_country = 'US';
+         </script>
+         <script src="http://www8.glam.com/js/widgets/glammedia_logo.js">
+         </script>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="footer-widgets-3 widget-area">
+      <section class="widget widget_text" id="text-19">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <!--Begin Diva Code-->
+          <a href="http://www.doubledutydivas.com" target="_blank">
+           <img alt="Double Duty Divas" height="125" src="http://www.doubledutydivas.com/wp-content/uploads/2012/01/01.png" width="125"/>
+          </a>
+          <!--End Diva Code-->
+         </center>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+   <footer class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+    <div class="wrap">
+     <div class="gototop">
+      <p>
+       <a href="#wrap" rel="nofollow">
+        Return to top
+       </a>
+      </p>
+     </div>
+     <div class="creds">
+      <p>
+       Site Design by:
+       <a href="http://www.fantastiquedesigns.com" target="_blank" title="Fantastique Designs">
+        Fantastique Designs
+       </a>
+       
+Copyright  2014 
+      </p>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script type="text/javascript">
+   (function(d, s, id) {
+  var js, pjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//cdn.pubexchange.com/modules/partner/almost_supermom";
+  pjs.parentNode.insertBefore(js, pjs);
+}(document, "script", "pubexchange-jssdk"));
+  </script>
+  <script type="text/javascript">
+   jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 0,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.2" type="text/javascript">
+  </script>
+  <link href="http://www.almostsupermom.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.1.5" id="yarppRelatedCss-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-includes/js/comment-reply.min.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="http://www.almostsupermom.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.2" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /*Google Tag Manager for Collective Bias*/
+
+    dataLayerCBias = [{
+        'trackingID': 'UA-53212209-32',
+        'javaScriptVersion': 'analytics.js',
+        'homePageURL': 'http://www.almostsupermom.com'
+    }];
+  </script>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-PBN79J" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script type="text/javascript">
+   /*&lt;![CDATA[*/
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayerCBias', 'GTM-PBN79J');
+    /*]]&gt;*/
+
+    /*End Google Tag Manager for Collective Bias*/
+  </script>
+ </body>
+</html>
+<!-- Dynamic page generated in 1.125 seconds. -->

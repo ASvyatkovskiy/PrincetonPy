@@ -1,0 +1,6 @@
+ipython-notebook
+nltk
+beautifulsoup4
+numpy
+scikit-learn
+matplotlib
