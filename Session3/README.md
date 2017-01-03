@@ -52,7 +52,7 @@ unzip master.zip
 
 Change to the the repository folder, and start interactive jupyter (ipython) notebook:
 ```bash
-cd PythonWorkshop
+cd PrincetonPy/Session3
 jupyter notebook
 ```
 
