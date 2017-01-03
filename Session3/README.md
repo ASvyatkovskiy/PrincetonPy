@@ -55,5 +55,3 @@ Change to the the repository folder, and start interactive jupyter (ipython) not
 cd PrincetonPy/Session3
 jupyter notebook
 ```
-
-After the notebook is opened, navigate to the workshop folder and open the 1.PythonBasics.ipynb from the browser window.
