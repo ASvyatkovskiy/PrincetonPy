@@ -20,7 +20,7 @@ Once Anaconda is ready, download the following requirements file: https://github
 and proceed with setting up the environment:
 
 ```bash
-conda create --name ScrapingWorkshop --file requirements.txt
+conda create --name ScrapingWorkshop python=2.7 anaconda
 conda create --name ScrapingWorkshop
 source activate ScrapingWorkshop
 pip install --user -r requirements.txt 
