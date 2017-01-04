@@ -21,7 +21,9 @@ and proceed with setting up the environment:
 
 ```bash
 conda create --name ScrapingWorkshop --file requirements.txt
+conda create --name ScrapingWorkshop
 source activate ScrapingWorkshop
+pip install --user -r requirements.txt 
 ```
 
 ## Install drivers required by Firefox
