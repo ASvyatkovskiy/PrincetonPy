@@ -14,5 +14,7 @@ addons:
 install:
   - pip install --upgrade pip
 
-script:
-  python setup.py test
+env:
+  - TEST_DIR=Session4;  TEST_SCRIPT="python setup.py test"
+
+script: cd $TEST_DIR  &&  $TEST_SCRIPT && cd ..
