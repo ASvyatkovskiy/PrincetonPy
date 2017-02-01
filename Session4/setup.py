@@ -2,7 +2,7 @@ import sys
 from setuptools import setup, find_packages
 
 setup(name = "palindrome",
-      version = palindrome.version.__version__,
+      version = "0.0.3",
       packages = find_packages(),
       description = "Tools to calculate palindromes",
       author = "John Doe",
