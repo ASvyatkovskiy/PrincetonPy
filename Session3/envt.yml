@@ -1,0 +1,7 @@
+name: ScrapingWorkshop
+channels:
+  - metaperl
+dependencies:
+  - python=2.7
+  - jupyter
+  - pandas 

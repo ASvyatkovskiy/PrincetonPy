@@ -20,8 +20,9 @@ Once Anaconda is ready, download the following requirements file: https://github
 and proceed with setting up the environment:
 
 ```bash
-conda create --name ScrapingWorkshop --file requirements.txt
+conda env create -f envt.yml
 source activate ScrapingWorkshop
+pip install --user -r requirements.txt 
 ```
 
 ## Install drivers required by Firefox
