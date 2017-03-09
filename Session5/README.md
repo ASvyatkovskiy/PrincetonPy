@@ -16,7 +16,7 @@ After that, type:
 conda --help
 ```
 and read the manual.
-Once Anaconda is ready, download the following requirements file: https://github.com/ASvyatkovskiy/PythonWorkshop/blob/master/requirements.txt
+Once Anaconda is ready, download the following requirements file: https://github.com/ASvyatkovskiy/PrincetonPy/blob/master/Session5/requirements.txt
 and proceed with setting up the environment:
 
 ```bash
