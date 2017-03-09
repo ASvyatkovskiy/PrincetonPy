@@ -47,16 +47,9 @@ sudo pip install --user --upgrade $TF_BINARY_URL
 sudo pip install --user --upgrade Pillow
 ```
 
-Test the installation was succesfull, launch the Jupyter notebook
-
+Test the installation was succesfull by starting a Python REPL and typing:
 ```bash
-jupyter notebook
-```
-create a new notebook selecting the Python kernel using your anaconda environment from the upper right dropdown menu, and type:
-
-```python
-In [1]: import tensorflow as tf
-        tf.__version__
-        
-Out[1]: 1.0.0
+>>> import tensorflow as tf
+>>> tf.__version__
+1.0.0
 ```
